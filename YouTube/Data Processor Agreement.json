@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:17:47.275Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "t-terms_dataprocessing",
+        "fetch": "https://www.youtube.com/t/terms_dataprocessing",
+        "select": "#main-content",
+        "mimeType": "text/html",
+        "snapshotId": "9ce7cfe1426975cd73e1cceaa9c4bdffd5f31bc2"
+      }
+    ]
+  }
+}
