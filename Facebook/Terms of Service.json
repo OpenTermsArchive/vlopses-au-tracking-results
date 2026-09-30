@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:59:45.341Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-plain_text_terms",
+        "fetch": "https://mbasic.facebook.com/legal/terms/plain_text_terms/",
+        "select": [
+          "#root"
+        ],
+        "remove": [
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "319efde2cb33fd9e47a93a44a2454c6716ea079f"
+      }
+    ]
+  }
+}
