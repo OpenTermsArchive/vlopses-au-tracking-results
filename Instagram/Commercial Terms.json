@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:36:31.411Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "legal-commercial_terms",
+        "fetch": "https://www.facebook.com/legal/commercial_terms",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "[aria-label='Show more languages']",
+          "[role='button'][tabindex='0']",
+          "footer[role='contentinfo']",
+          "div:has(> a[aria-label='Sign Up for Facebook'])"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f431d8607370714dc1039bbc19eecf90d71f4b14"
+      },
+      {
+        "id": "payments_terms",
+        "fetch": "https://www.facebook.com/payments_terms",
+        "select": "[role=\"main\"]",
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3fae3bf180e67b87be53fa03010a01dabe7a1c55"
+      },
+      {
+        "id": "policies_center-commerce",
+        "fetch": "https://www.facebook.com/policies_center/commerce",
+        "select": [
+          "._li"
+        ],
+        "remove": [
+          "#u_0_1_fk",
+          "#u_0_3_Da",
+          "[class~=_9nrb_9nrd]",
+          "[href*='137151366_203760844736656_1882032595123025998_n.jpg']",
+          "[href*='137145103_308994903869841_4708570808613729754_n.jpg']",
+          "[href*='137256059_2800543870233431_455035967167740410_n.jpg']",
+          "[href*='136893606_849918935579882_213472362566516880_n.jpg']",
+          "img[src*='https://scontent']",
+          "img[src*='static.xx.fbcdn.net']",
+          "iframe[src*='https://www.facebook.com/cms/video/?id=850337606335586']",
+          "a",
+          ".img",
+          "span"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2f37b7a7554b48127f49e01400f472e8b9c404a4"
+      }
+    ]
+  }
+}
