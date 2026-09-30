@@ -1,0 +1,39 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:53:46.038Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "copyright-noticeam-a-379",
+        "fetch": "https://au.shein.com/copyright-noticeam-a-379.html",
+        "select": [
+          ".sui-title-nav__title",
+          ".article-con-item"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d1cc3a386a18680a14812d6d2c37b251d418b2ae"
+      },
+      {
+        "id": "ipp",
+        "fetch": "https://ipp.shein.com/ipp?code=20240730201923799773",
+        "select": "#property_content_detail",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca05927cb468b50bbfbfe98e38deb9e4258508eb"
+      },
+      {
+        "id": "ipp",
+        "fetch": "https://ipp.shein.com/ipp?code=20240730192620775058",
+        "select": "#property_content_detail",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca05927cb468b50bbfbfe98e38deb9e4258508eb"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".sui-title-nav__title\",\".article-con-item\"]\" has no match in the web page at 'https://au.shein.com/copyright-noticeam-a-379.html'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
