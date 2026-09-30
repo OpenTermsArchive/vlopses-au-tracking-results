@@ -1,0 +1,1013 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:46:48.480Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "535503073130320",
+        "fetch": "https://help.instagram.com/535503073130320/",
+        "select": [
+          "#help-center-faq-page-container"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4db49f08d2b6ccd549a6a80a739618623d4c86ca"
+      },
+      {
+        "id": "126382350847838",
+        "fetch": "https://help.instagram.com/126382350847838?helpref=faq_content",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fc0ea4355daad9072c92ce37f2a1c39121393fa8"
+      },
+      {
+        "id": "222826637847963",
+        "fetch": "https://help.instagram.com/222826637847963?helpref=faq_content",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "36faaef0592d0ea272a48b8daa3862766013ab70"
+      },
+      {
+        "id": "745146219025379",
+        "fetch": "https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2b215bdaa7d46a0ef6604429aa742c2208889aea"
+      },
+      {
+        "id": "782489295246269",
+        "fetch": "https://help.instagram.com/782489295246269/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4146b69e5ca488159585c07e3662979bad034442"
+      },
+      {
+        "id": "1992178671014348",
+        "fetch": "https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8566ddf535c0189e8ef4c2c934118a2a7217059f"
+      },
+      {
+        "id": "1896184403962569",
+        "fetch": "https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a3c975ae86e63374ed023107a1df3fd2e0727667"
+      },
+      {
+        "id": "490539584843747",
+        "fetch": "https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "abb6825d28d29439132aee432798ce0cc4fc1074"
+      },
+      {
+        "id": "739368099602634",
+        "fetch": "https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "da983321f3db86e2fb1d0b5cda64dcedff2bf201"
+      },
+      {
+        "id": "354736791367645",
+        "fetch": "https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4a9972a8ce25a0f83909d7e29ca47ee7d9cbe831"
+      },
+      {
+        "id": "116455299019699",
+        "fetch": "https://help.instagram.com/116455299019699/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9ecd27b3e80a7fcca7991007a5dced9f2b9a8acd"
+      },
+      {
+        "id": "113605816019642",
+        "fetch": "https://help.instagram.com/113605816019642/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "aa70d127a2e39564644cb8977b156e31759415ab"
+      },
+      {
+        "id": "1445818549016877",
+        "fetch": "https://help.instagram.com/1445818549016877/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a7ef20014d186c01352430d89b44d24c9a3a5634"
+      },
+      {
+        "id": "1586774981367195",
+        "fetch": "https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4e7fc70e1973187b4eeccb3f39ef11fcff667d54"
+      },
+      {
+        "id": "697328657009330",
+        "fetch": "https://help.instagram.com/697328657009330/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6bc9700fbef9a4f958f6a34f02ea7d215c1051c2"
+      },
+      {
+        "id": "277982542336146",
+        "fetch": "https://help.instagram.com/277982542336146/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0bc3866330d2d522cf3ae07e86c9a4188be1c18e"
+      },
+      {
+        "id": "1624041234305603",
+        "fetch": "https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1c9223dd2592730be5267559d339caab10ae9a76"
+      },
+      {
+        "id": "625821030869776",
+        "fetch": "https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "994c42a4c9ca5e0255da3e49733142e6b12ba245"
+      },
+      {
+        "id": "589322221078523",
+        "fetch": "https://help.instagram.com/589322221078523/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fe27bc2ee7a377435fb5044560352144e305fae6"
+      },
+      {
+        "id": "454257084652404",
+        "fetch": "https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4d1f44cadd19583c5f8aabb7ce75cc29a89def3d"
+      },
+      {
+        "id": "585021874940806",
+        "fetch": "https://help.instagram.com/585021874940806/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ef7066cae367a0d567fcf631017300a06aaaf74b"
+      },
+      {
+        "id": "366993040573305",
+        "fetch": "https://help.instagram.com/366993040573305/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cb706a0cf984e9735abf1761a0b80dace7d1ebde"
+      },
+      {
+        "id": "746718085394495",
+        "fetch": "https://help.instagram.com/746718085394495/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3b501e5fe05d4494e0f6f42606a057b29cac7947"
+      },
+      {
+        "id": "275268756304020",
+        "fetch": "https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=126382350847838",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0d2491b75da9531e4fa5020e76ca67d3b4a93414"
+      },
+      {
+        "id": "693466877515116",
+        "fetch": "https://help.instagram.com/693466877515116/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b687f5d7395acb2e7792c1e0c0da0311767eb770"
+      },
+      {
+        "id": "1904208239817294",
+        "fetch": "https://help.instagram.com/1904208239817294/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bc7710543393a80f251a25377fb03b67fe70b4a7"
+      },
+      {
+        "id": "902013803270727",
+        "fetch": "https://help.instagram.com/902013803270727/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d54ba38e4ce6a67082127b754172d7a1f1413aa7"
+      },
+      {
+        "id": "346906112398235",
+        "fetch": "https://help.instagram.com/346906112398235/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a254beb31184144de9d56a3159a160aaeea576a5"
+      },
+      {
+        "id": "606967612731648",
+        "fetch": "https://help.instagram.com/606967612731648/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f321a247a28875504f7978806c866758e33c1df8"
+      },
+      {
+        "id": "349865072108966",
+        "fetch": "https://help.instagram.com/349865072108966/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "31a59b742bce823c4bf64e7945a6d3cc70a2daeb"
+      },
+      {
+        "id": "499796697033328",
+        "fetch": "https://help.instagram.com/499796697033328/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ff4028fdf124a06da73881857a5ea8d8e7f8f011"
+      },
+      {
+        "id": "752100651636285",
+        "fetch": "https://help.instagram.com/752100651636285/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "af8f92a19adac513e61fd74cdc87fe3bfb3d5a97"
+      },
+      {
+        "id": "739368099602634",
+        "fetch": "https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "da983321f3db86e2fb1d0b5cda64dcedff2bf201"
+      },
+      {
+        "id": "1500571290191298",
+        "fetch": "https://help.instagram.com/1500571290191298/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2cba8fa4edaac690a850733bdc0deb82f7914e1f"
+      },
+      {
+        "id": "244286600038698",
+        "fetch": "https://help.instagram.com/244286600038698/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca1bf4a6b24f8d5f8ac7569e5354f6a78f20e0d5"
+      },
+      {
+        "id": "1586774981367195",
+        "fetch": "https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4e7fc70e1973187b4eeccb3f39ef11fcff667d54"
+      },
+      {
+        "id": "1921828231475726",
+        "fetch": "https://help.instagram.com/1921828231475726/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "36173cefc6b4619ba9551b0d0ddaebb08f60ad3d"
+      },
+      {
+        "id": "625821030869776",
+        "fetch": "https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "994c42a4c9ca5e0255da3e49733142e6b12ba245"
+      },
+      {
+        "id": "2039132876317734",
+        "fetch": "https://help.instagram.com/2039132876317734/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "84a6f7f2017eb475259cadcc20be524d54b00ad6"
+      },
+      {
+        "id": "454257084652404",
+        "fetch": "https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4d1f44cadd19583c5f8aabb7ce75cc29a89def3d"
+      },
+      {
+        "id": "1624041234305603",
+        "fetch": "https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1c9223dd2592730be5267559d339caab10ae9a76"
+      },
+      {
+        "id": "752100651636285",
+        "fetch": "https://help.instagram.com/752100651636285?helpref=faq_content",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "af8f92a19adac513e61fd74cdc87fe3bfb3d5a97"
+      },
+      {
+        "id": "116455299019699",
+        "fetch": "https://help.instagram.com/116455299019699?helpref=faq_content",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9ecd27b3e80a7fcca7991007a5dced9f2b9a8acd"
+      },
+      {
+        "id": "364771763628260",
+        "fetch": "https://help.instagram.com/364771763628260/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "062a506e5b6d219a929a0d3b4ef97b0986d5f486"
+      },
+      {
+        "id": "843303212369793",
+        "fetch": "https://help.instagram.com/843303212369793/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a240893f48de559768071e65a39e751e4ec1799c"
+      },
+      {
+        "id": "275268756304020",
+        "fetch": "https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0d2491b75da9531e4fa5020e76ca67d3b4a93414"
+      },
+      {
+        "id": "576171622509150",
+        "fetch": "https://help.instagram.com/576171622509150/?helpref=uf_permalink&parent_cms_id=222826637847963",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9487cb7df838560244c1e2967e44df91e8302036"
+      },
+      {
+        "id": "help-instagram-1417735471763678",
+        "fetch": "https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "div[aria-label='Change language: English (UK)']",
+          "div[role='none']",
+          "svg",
+          "input",
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f8c6158add42abafe7cdb5708efc7fe33fe63375"
+      }
+    ]
+  }
+}
