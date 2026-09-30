@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:54:51.301Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "terms",
+        "fetch": "https://www.snap.com/terms",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4f40bb35590920996eaf0a28b3fe0fd92091669d"
+      },
+      {
+        "id": "terms-paid-features",
+        "fetch": "https://www.snap.com/terms/paid-features",
+        "select": "main",
+        "remove": [
+          "header",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "26e6e6e603af75a49addeff826d268142b083e21"
+      },
+      {
+        "id": "terms-my-selfie",
+        "fetch": "https://www.snap.com/terms/my-selfie",
+        "select": "main",
+        "remove": [
+          "header",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3345d27121c94a18a0cf5710ad2802b16ec061a6"
+      },
+      {
+        "id": "policies-pcd",
+        "fetch": "https://www.snap.com/policies/pcd",
+        "select": "main",
+        "remove": [
+          "header",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "68b981febb822bb3bd4fb7b624aca7a813b45978"
+      },
+      {
+        "id": "terms-create-geofilter",
+        "fetch": "https://www.snap.com/terms/create-geofilter",
+        "select": "main",
+        "remove": [
+          "header",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d2b6f97e86f44e7499b1754cd88dc4289bc9b797"
+      },
+      {
+        "id": "terms-lens-studio-terms",
+        "fetch": "https://www.snap.com/terms/lens-studio-terms",
+        "select": "main",
+        "remove": [
+          "header",
+          ".footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d3a1b39d9d94130c4c2c8062132606232c0c764f"
+      }
+    ]
+  }
+}
