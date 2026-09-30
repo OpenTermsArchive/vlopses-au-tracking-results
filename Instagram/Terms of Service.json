@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:29:58.208Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "581066165581870",
+        "fetch": "https://help.instagram.com/581066165581870",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "nav",
+          "fieldset",
+          "[id='Related Articles']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "78bb1b56af54fbffabf79973463430e8e570c367"
+      },
+      {
+        "id": "policies-other-policies-terms-of-service",
+        "fetch": "https://transparency.meta.com/policies/other-policies/terms-of-service",
+        "select": [
+          "#mdc-main-content"
+        ],
+        "remove": [
+          "footer",
+          ".img",
+          "nav",
+          "span"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5dfcd82113e1ad9bd75e96ab5dd8165122d71a54"
+      },
+      {
+        "id": "legal-ai-terms",
+        "fetch": "https://www.facebook.com/legal/ai-terms",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "[role=\"separator\"]"
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2424141f67e51343dba5c588427c526cd753d9df"
+      }
+    ]
+  }
+}
