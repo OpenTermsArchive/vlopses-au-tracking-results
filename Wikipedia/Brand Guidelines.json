@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:05:47.397Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wiki-Policy_Wikimedia_Foundation_Trademark_Policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Trademark_Policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d09688ef6f978cccdda9c311a79e5909f8dc3704"
+      }
+    ]
+  }
+}
