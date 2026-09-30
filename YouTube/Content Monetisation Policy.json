@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:17:46.277Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "youtube-answer-1311392",
+        "fetch": "https://support.google.com/youtube/answer/1311392",
+        "select": ".article-container",
+        "remove": [
+          ".embedded-video-large",
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "98ec437af2b35f782fdbc1b11752a94b081fac40"
+      },
+      {
+        "id": "youtube-answer-12504220",
+        "fetch": "https://support.google.com/youtube/answer/12504220",
+        "select": ".article-container",
+        "remove": [
+          ".embedded-video-large",
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7138462dc04a74ec4e4ec006abb1e100e12212d5"
+      },
+      {
+        "id": "youtube-answer-13195878",
+        "fetch": "https://support.google.com/youtube/answer/13195878",
+        "select": ".article-container",
+        "remove": [
+          ".embedded-video-large",
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "95fd35b88d81d7da7ea83a643e5de2369338d9b8"
+      },
+      {
+        "id": "youtube-answer-15427201",
+        "fetch": "https://support.google.com/youtube/answer/15427201",
+        "select": ".article-container",
+        "remove": [
+          ".embedded-video-large",
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "1dc0f37732e89639f9b44e833ed1ecc151466ab5"
+      }
+    ]
+  }
+}
