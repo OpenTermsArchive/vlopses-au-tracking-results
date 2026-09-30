@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:40.833Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-community-guidelines",
+        "fetch": "https://policy.pinterest.com/en/community-guidelines",
+        "select": "main",
+        "remove": "aside",
+        "mimeType": "text/html",
+        "snapshotId": "42dc122a109ec159ade8d4bf1377168b3a546d9e"
+      },
+      {
+        "id": "en-enforcement",
+        "fetch": "https://policy.pinterest.com/en/enforcement",
+        "select": "#section-community-guidelines-enforcement",
+        "mimeType": "text/html",
+        "snapshotId": "d2ebb0566afdb707cab632f91d5a05751adf79d4"
+      }
+    ]
+  }
+}
