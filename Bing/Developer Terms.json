@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:59:17.152Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-bing-apis-legal",
+        "fetch": "https://www.microsoft.com/en/bing/apis/legal",
+        "select": [
+          "#primaryArea"
+        ],
+        "remove": [
+          "span",
+          "[aria-label=\"Show additional social media links\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ac9bcef61ad1c2b167240d61cd760217348d9058"
+      }
+    ]
+  }
+}
