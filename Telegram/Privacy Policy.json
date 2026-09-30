@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:56:47.268Z",
+    "serviceName": "Telegram",
+    "sourceDocuments": [
+      {
+        "id": "privacy",
+        "fetch": "https://telegram.org/privacy",
+        "select": "#dev_page_content_wrap",
+        "mimeType": "text/html",
+        "snapshotId": "2f76dfc2ae86ae976a70d41059ffe5c57f699ce0"
+      }
+    ]
+  }
+}
