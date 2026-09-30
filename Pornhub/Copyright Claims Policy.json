@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:49:43.000Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "information-dmca",
+        "fetch": "https://www.pornhub.com/information/dmca",
+        "select": [
+          "#information_dmca"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2d204229c6ac6f8312d0137cac5eb9632bc9bee2"
+      },
+      {
+        "id": "hc-en-au-articles-4419861225107-Copyright",
+        "fetch": "https://help.pornhub.com/hc/en-au/articles/4419861225107-Copyright",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "339042369df856c03a7840ce7d24aece90fd384e"
+      }
+    ]
+  }
+}
