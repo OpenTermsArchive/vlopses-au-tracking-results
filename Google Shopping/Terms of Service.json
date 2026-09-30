@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:29:17.296Z",
+    "serviceName": "Google Shopping",
+    "sourceDocuments": [
+      {
+        "id": "files-tos-extend-AU-5_00_tos",
+        "fetch": "https://merchants.google.com/files/tos/extend/AU/5_00_tos.html",
+        "select": [
+          "body"
+        ],
+        "remove": [
+          "script"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2755ae41f4f37ecf51a9db65141747cec1695d0f"
+      }
+    ]
+  }
+}
