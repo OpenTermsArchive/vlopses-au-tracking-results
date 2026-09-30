@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:56:24.642Z",
+    "serviceName": "Stripchat",
+    "sourceDocuments": [
+      {
+        "id": "parental-control",
+        "fetch": "https://stripchat.com/parental-control",
+        "select": [
+          ".page-section"
+        ],
+        "remove": [
+          "button",
+          ".page-section-notes"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "1112a98282b8f7ecec785b21a8d7afd9877d753b"
+      }
+    ]
+  }
+}
