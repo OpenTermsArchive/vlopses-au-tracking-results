@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:51:02.405Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-au-articles-4419875178131-Model-Agreement",
+        "fetch": "https://help.pornhub.com/hc/en-au/articles/4419875178131-Model-Agreement",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "remove": [
+          "button",
+          ".ytp-cued-thumbnail-overlay",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9bb7177c5f806665f30fa84a296ff5985f937718"
+      }
+    ]
+  }
+}
