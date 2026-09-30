@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:20:31.100Z",
+    "serviceName": "Google Maps",
+    "sourceDocuments": [
+      {
+        "id": "brand-resource-center-brand-terms",
+        "fetch": "https://about.google/brand-resource-center/brand-terms/",
+        "select": [
+          "#page-content"
+        ],
+        "remove": [
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "059748fbcf6aa8f6f8005f6bf1070ae5dfdea97c"
+      },
+      {
+        "id": "brand-resource-center-products-and-services-geo-guidelines",
+        "fetch": "https://about.google/brand-resource-center/products-and-services/geo-guidelines/",
+        "select": "#page-content",
+        "remove": [
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "749b12462ac5fd0b0486b0a1c3210426cc3d72ed"
+      }
+    ]
+  }
+}
