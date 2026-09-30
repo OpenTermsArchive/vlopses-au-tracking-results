@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:51:52.285Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-au-articles-36113072849171-Australian-eSafety",
+        "fetch": "https://help.pornhub.com/hc/en-au/articles/36113072849171-Australian-eSafety",
+        "select": [
+          ".article-container"
+        ],
+        "remove": [
+          ".article-container__sidenav",
+          ".sidenav-btn",
+          ".article-vote"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6492912aef4e9cfcf0d40e47495169e8ac240d83"
+      }
+    ]
+  }
+}
