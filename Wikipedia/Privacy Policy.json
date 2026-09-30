@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:05:10.401Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wiki-Privacy_policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+        "select": [
+          "#firstHeading",
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aaef184440a51a982e5307648c6ccc255378dbcb"
+      },
+      {
+        "id": "wiki-Policy_Cookie_statement",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Cookie_statement",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aca7c213ffaed09cd61beacf16662740332a3b71"
+      },
+      {
+        "id": "wiki-Policy_Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "fdee1efe57ce97d597268e1b915e5efba98e2ece"
+      },
+      {
+        "id": "wiki-Policy_Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy-Underage_exemptions",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy/Underage_exemptions",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aff50db0c7b45a0394caabdac03e21868fe0e9a7"
+      },
+      {
+        "id": "wiki-Policy_Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e037a0edb0d0176b3915a5b6acc5319b777b42e9"
+      },
+      {
+        "id": "wiki-Legal_Data_Collection_Guidelines",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Data_Collection_Guidelines",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0aa1f61d905c00227869e5d311f310c7ecbc9c8f"
+      },
+      {
+        "id": "wiki-Legal_Data_publication_guidelines",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Data_publication_guidelines",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0bff5727f67eb614ddacb82e885c222d0e3502f0"
+      },
+      {
+        "id": "wiki-Legal_Wikimedia_Foundation_Data_Retention_Guidelines",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Wikimedia_Foundation_Data_Retention_Guidelines",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "cc3a9ff2871f9e60f25441f08010f853abf29717"
+      },
+      {
+        "id": "wiki-Policy_Donor_privacy_policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Donor_privacy_policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2f8751a282694020b166c72801b4ab32f6322bb7"
+      },
+      {
+        "id": "wiki-Legal_Wikimedia_IP_Information_Tool_Policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Wikimedia_IP_Information_Tool_Policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "807367d87e656661a81088a7c58e99186723021a"
+      },
+      {
+        "id": "wiki-Policy_Privacy_policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Privacy_policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "19b9cc1dd2f1c95b5d80b679a1747e2088cb818e"
+      }
+    ]
+  }
+}
