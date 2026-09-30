@@ -1,0 +1,109 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:02:52.068Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-privacy-policy",
+        "fetch": "https://www.whatsapp.com/legal/privacy-policy",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "674a2d8d461fbe7fe72e4586db002b023c978afe"
+      },
+      {
+        "id": "legal-payments-privacy-policy",
+        "fetch": "https://www.whatsapp.com/legal/payments/privacy-policy",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7704a9260b5992840dc9d303087d9c664cd41c57"
+      },
+      {
+        "id": "help-accounts-center-860837242806303",
+        "fetch": "https://www.meta.com/help/accounts-center/860837242806303/",
+        "select": [
+          "div:has(> h1)"
+        ],
+        "remove": [
+          "nav",
+          "fieldset",
+          "svg",
+          "span",
+          "img",
+          "div[aria-label='Expand Mobile Sidenav']",
+          "div[aria-label='Mobile menu']",
+          "span",
+          "div[role='button']",
+          "footer",
+          "script"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "164647dd4cb9c6d3a0e57daa8d492e8c453c81f0"
+      },
+      {
+        "id": "legal-recommended-avatars-privacy-notice",
+        "fetch": "https://www.whatsapp.com/legal/recommended-avatars-privacy-notice",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "03777f7e0258a97bb14da7a3bac6533caec0f974"
+      },
+      {
+        "id": "legal-face-hand-effects-privacy-notice",
+        "fetch": "https://www.whatsapp.com/legal/face-hand-effects-privacy-notice",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ad405222d37ccdb60aa7dc885e2dc3cc39d646c8"
+      },
+      {
+        "id": "legal-channels-privacy-policy",
+        "fetch": "https://www.whatsapp.com/legal/channels-privacy-policy/",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "234f7913343b34a11d336be90546edba27b2c8a8"
+      },
+      {
+        "id": "legal-business-app-privacy-policy",
+        "fetch": "https://www.whatsapp.com/legal/business-app-privacy-policy",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f24ad138f39d7ce95b188374cf6cc16ca3ff1d23"
+      },
+      {
+        "id": "legal-privacy-policy",
+        "fetch": "https://www.whatsapp.com/legal/privacy-policy?eea=0#privacy-policy-key-updates",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "674a2d8d461fbe7fe72e4586db002b023c978afe"
+      }
+    ]
+  }
+}
