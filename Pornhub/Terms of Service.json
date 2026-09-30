@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:49:53.646Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "information-terms",
+        "fetch": "https://www.pornhub.com/information/terms",
+        "select": [
+          "#information_terms"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e82821ea36f7dd904c76b6d0bdc5a3fdde1a0cb1"
+      }
+    ]
+  }
+}
