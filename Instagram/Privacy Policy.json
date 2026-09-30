@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:30:49.821Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policy",
+        "fetch": "https://privacycenter.instagram.com/policy",
+        "select": [
+          "body"
+        ],
+        "remove": [
+          "img",
+          "video",
+          "[aria-controls]",
+          "nav",
+          "header",
+          "footer",
+          ".ad-banner",
+          "[data-role=sidebar]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_cat",
+              "_nc_gid",
+              "_nc_ohc",
+              "oh",
+              "oe",
+              "efg",
+              "bitrate",
+              "lid",
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "29362b56a6c913b571a9a09b829441c36af1350b"
+      },
+      {
+        "id": "policies-other-policies-meta-ai-verification-terms",
+        "fetch": "https://transparency.meta.com/policies/other-policies/meta-ai-verification-terms",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "nav",
+          "footer",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_cat",
+              "_nc_gid",
+              "_nc_ohc",
+              "oh",
+              "oe",
+              "efg",
+              "bitrate",
+              "lid",
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "adf268499edb9f56c647bfad50a308c6d3eae6aa"
+      },
+      {
+        "id": "legal-meta-AI-disclosures",
+        "fetch": "https://www.facebook.com/legal/meta-AI-disclosures",
+        "select": [
+          {
+            "startBefore": "div[role=\"main\"]",
+            "endBefore": "div[role=\"separator\"]"
+          }
+        ],
+        "remove": [
+          "nav",
+          "footer",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_cat",
+              "_nc_gid",
+              "_nc_ohc",
+              "oh",
+              "oe",
+              "efg",
+              "bitrate",
+              "lid",
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8e797766c81e30a1e3551ea8dce3d5a29d47c69d"
+      }
+    ]
+  }
+}
