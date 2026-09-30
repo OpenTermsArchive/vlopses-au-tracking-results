@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-1c6bd232-168e-4d5a-baeb-42961b5ca863",
+  "runId": "ota-run-0625d10d-83b9-4546-ba1e-5f37de28e088",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-09-30T00:30:09.622Z",
-    "endDate": "2026-09-30T02:18:35.488Z",
+    "startDate": "2026-09-30T12:30:10.032Z",
+    "endDate": null,
     "engineVersion": "16.2.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "c74274d7845e848f0b7911c3c6c3cfdb16ad670d",
@@ -14,11 +14,11 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 176,
-    "failed": 19
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
