@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:00.302Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "en-us",
+        "fetch": "https://brand.linkedin.com/en-us",
+        "select": "section#main",
+        "mimeType": "text/html",
+        "snapshotId": "29eed2489597b94b682c3264359705bf03a64f34"
+      }
+    ]
+  }
+}
