@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:55:59.075Z",
+    "serviceName": "Stripchat",
+    "sourceDocuments": [
+      {
+        "id": "dmca",
+        "fetch": "https://stripchat.com/dmca",
+        "select": [
+          ".page-section"
+        ],
+        "remove": [
+          "button",
+          ".page-section-notes"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "37b6e73daaf90193cf06446a2211ddc488360358"
+      }
+    ]
+  }
+}
