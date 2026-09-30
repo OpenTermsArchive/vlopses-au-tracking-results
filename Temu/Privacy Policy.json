@@ -1,0 +1,63 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:57:42.923Z",
+    "serviceName": "Temu",
+    "sourceDocuments": [
+      {
+        "id": "privacy-and-cookie-policy",
+        "fetch": "https://www.temu.com/privacy-and-cookie-policy.html",
+        "select": [
+          "#policyContent"
+        ],
+        "remove": [
+          "#anchorWrap"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "08ab0cd7d9b806c5bf827bf00ddd1a93b45d8321"
+      },
+      {
+        "id": "common-policy",
+        "fetch": "https://www.temu.com/common-policy.html?protocol_type=12",
+        "select": [
+          "#policyContent"
+        ],
+        "remove": [
+          "#anchorWrap"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a98a4eb92b4f43bb6c8864c95270db638902ae6e"
+      },
+      {
+        "id": "cookie-and-similar-technologies-policy",
+        "fetch": "https://www.temu.com/cookie-and-similar-technologies-policy.html",
+        "select": [
+          "#policyContent"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b8bd577ec6fff2bdd49b16dc6fc346f2a6d38e15"
+      },
+      {
+        "id": "bgp-privacy-policy-and-setting",
+        "fetch": "https://www.temu.com/bgp-privacy-policy-and-setting.html",
+        "select": [
+          ".mainContent"
+        ],
+        "remove": [
+          "footer",
+          "#mainHeader",
+          "nav"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d48d55b7d32aa160f7366084cd80e3c2a07433f9"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#policyContent\"]\" has no match in the web page at 'https://www.temu.com/common-policy.html?protocol_type=12'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
