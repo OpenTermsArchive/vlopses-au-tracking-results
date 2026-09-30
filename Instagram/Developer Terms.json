@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:35:53.897Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "terms",
+        "fetch": "https://developers.facebook.com/terms",
+        "select": [
+          "#rebrandBodyID"
+        ],
+        "remove": [
+          "#devsite_header",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "h",
+              "oh",
+              "oe",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ed47584e0a7b2a540b910a47d229cf1e55ecdcc2"
+      },
+      {
+        "id": "devpolicy",
+        "fetch": "https://developers.facebook.com/devpolicy/",
+        "select": [
+          "#rebrandBodyID"
+        ],
+        "remove": [
+          "#devsite_header",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "h",
+              "oh",
+              "oe",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "bcfb037df644227e2b21b8b38d514433e2ff5d65"
+      }
+    ]
+  }
+}
