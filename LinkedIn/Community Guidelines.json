@@ -1,0 +1,94 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:09.358Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "legal-professional-community-policies",
+        "fetch": "https://www.linkedin.com/legal/professional-community-policies",
+        "select": "main",
+        "remove": "div.banner__image-container",
+        "mimeType": "text/html",
+        "snapshotId": "4542d72db26c4730a47a23565e3806f73220ef1f"
+      },
+      {
+        "id": "help-linkedin-answer-a1342754",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1342754/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "c56b2ee53100334abfe62b06a9978b6ebdfd60af"
+      },
+      {
+        "id": "help-linkedin-answer-a1342756",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1342756/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "1d86f4febeac21172d3e6f89035a5862fd5a2108"
+      },
+      {
+        "id": "help-linkedin-answer-a1336770",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1336770/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "ecae21b54b3b9a0c6517b00066d0db3219b12063"
+      },
+      {
+        "id": "help-linkedin-answer-a1349151",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1349151/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "d0c031ca23be59ff39396ba4c2187cf7b0240f1e"
+      },
+      {
+        "id": "help-linkedin-answer-a1342780",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1342780/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "5dd530694f211e76fab99e8ced391355c65b824f"
+      },
+      {
+        "id": "help-linkedin-answer-a1340752",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1340752/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "b41b0ad0fe1c1369c720b18294bd35a1b701740c"
+      },
+      {
+        "id": "help-linkedin-answer-a1338803",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1338803/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "2c3036ba037fc1c24278319a881d14a133e6aece"
+      },
+      {
+        "id": "help-linkedin-answer-a1339812",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1339812/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "10f1c35362375cc980e98d76431256e2b550d312"
+      },
+      {
+        "id": "help-linkedin-answer-a1337770",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1337770/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "974d753753d306cd9b762a3e8dcb9509d36e2945"
+      },
+      {
+        "id": "help-linkedin-answer-a1338800",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1338800/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "38bf48ec6a15d300bf87a230aa3a30a1850a2480"
+      },
+      {
+        "id": "help-linkedin-answer-a1338787",
+        "fetch": "https://www.linkedin.com/help/linkedin/answer/a1338787/",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "ae779e49e8ee964b89de0939c90bf092661c0c93"
+      }
+    ]
+  }
+}
