@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:04:51.435Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-merchant-terms",
+        "fetch": "https://www.whatsapp.com/legal/merchant-terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0ddbd0b461473513d8155735af0b3e4c24dcc1d4"
+      }
+    ]
+  }
+}
