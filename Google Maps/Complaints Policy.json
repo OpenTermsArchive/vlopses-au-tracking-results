@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:20:14.615Z",
+    "serviceName": "Google Maps",
+    "sourceDocuments": [
+      {
+        "id": "legal-answer-1120734",
+        "fetch": "https://support.google.com/legal/answer/1120734",
+        "select": ".main-content",
+        "remove": [
+          ".scClientFeedbackInlineFeedbacklinkroot"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4ffb2a318f51b4afd77aba1140a3896b13d3da37"
+      }
+    ]
+  }
+}
