@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:55:41.288Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "terms-snap-conversion",
+        "fetch": "https://www.snap.com/terms/snap-conversion",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "307145daba84765d45f20124578b6dbf580c2019"
+      },
+      {
+        "id": "terms-snap-audience-match",
+        "fetch": "https://www.snap.com/terms/snap-audience-match",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "4404516a714ef1ac586a550301de8527cce12563"
+      },
+      {
+        "id": "terms-cst",
+        "fetch": "https://www.snap.com/terms/cst",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "b907c7c404a9dfc4ee279c198cd0642a1c9b2eb9"
+      },
+      {
+        "id": "terms-catalog",
+        "fetch": "https://www.snap.com/terms/catalog",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "bda124aa7d2864743817e1650ca3bdcc55501ea8"
+      },
+      {
+        "id": "terms-self-serve-advertising",
+        "fetch": "https://www.snap.com/terms/self-serve-advertising",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "50d3fafe5cf13d4b8a64f2a8871d2e59ed176a21"
+      },
+      {
+        "id": "terms-local",
+        "fetch": "https://www.snap.com/terms/local",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "6c490701a3955b2ac6488d89608795a0f03cb1c7"
+      },
+      {
+        "id": "terms-business-services",
+        "fetch": "https://www.snap.com/terms/business-services",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "c3559da50a8ccfaa34622750d43c2ec85458a78e"
+      },
+      {
+        "id": "terms-payment",
+        "fetch": "https://www.snap.com/terms/payment",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "4b667dfc246a3f5c2530d783ed68f1ab63473e4b"
+      }
+    ]
+  }
+}
