@@ -1,0 +1,87 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T02:18:31.017Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-au-servicesagreement",
+        "fetch": "https://www.microsoft.com/en-au/servicesagreement",
+        "select": [
+          ".container"
+        ],
+        "remove": [
+          ".print",
+          "a[href='#page-top']",
+          ".div_print_container",
+          "span"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f04acb86c98ab6a889fffbf7817f5afa0b9ad418"
+      },
+      {
+        "id": "en-au-microsoft-copilot-for-individuals-termsofuse",
+        "fetch": "https://www.microsoft.com/en-au/microsoft-copilot/for-individuals/termsofuse",
+        "select": [
+          "#mainContent"
+        ],
+        "remove": [
+          "a.copilot_brand"
+        ],
+        "executeClientScripts": true,
+        "mimeType": null,
+        "snapshotId": null
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60321/0",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ada1d25d969f9f8f512d66217fc8bbfd3bca84e4"
+      },
+      {
+        "id": "en-au-legal-terms-of-use",
+        "fetch": "https://www.microsoft.com/en-au/legal/terms-of-use",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "[aria-label=\"follow us on social media\"]",
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "116292cca4934dfd48b9aa5bb679ddb82ac8ca9d"
+      },
+      {
+        "id": "terms-EndUserTerms",
+        "fetch": "https://www.bingmapsportal.com/terms/EndUserTerms",
+        "select": [
+          "#main"
+        ],
+        "remove": [
+          "#uniqueIdForList1",
+          "img",
+          "[aria-label=\"follow us on social media\"]",
+          "#layout-container-uide2af",
+          "#RichTextV1Div-richtext-uidee33"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": null
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/microsoft-copilot/for-individuals/termsofuse'"
+    ]
+  }
+}
