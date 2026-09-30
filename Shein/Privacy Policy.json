@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:52:45.611Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "Consumer-Privacy-Notice-s-101",
+        "fetch": "https://au.shein.com/Consumer-Privacy-Notice-s-101.html",
+        "select": [
+          "#j-security-article"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1a5d56f96ef7fb0d0350b91ec9181cc32a644855"
+      },
+      {
+        "id": "Privacy-Security-Policy-a-282",
+        "fetch": "https://au.shein.com/Privacy-Security-Policy-a-282.html",
+        "select": "#j-security-article",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "aa983bdd1b80f3dcce2a0d1c21be3affdae1b801"
+      }
+    ]
+  }
+}
