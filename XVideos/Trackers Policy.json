@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:15:35.504Z",
+    "serviceName": "XVideos",
+    "sourceDocuments": [
+      {
+        "id": "legal-cookiepolicy",
+        "fetch": "https://info.xvideos.net/legal/cookiepolicy",
+        "select": [
+          "#main"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d420aab89d7730b1d1f5ef4e97a8b95cc5d13a14"
+      }
+    ]
+  }
+}
