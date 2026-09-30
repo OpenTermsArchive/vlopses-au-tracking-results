@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:57.226Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-article-law-enforcement-guidelines",
+        "fetch": "https://help.pinterest.com/en/article/law-enforcement-guidelines",
+        "select": "#main-container",
+        "mimeType": "text/html",
+        "snapshotId": "7c9852819f02f7a90fccaa8e07fe04c592f37ea4"
+      }
+    ]
+  }
+}
