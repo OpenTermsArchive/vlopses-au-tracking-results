@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:52:20.659Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "shein-customized-product-terms-and-conditions-a-1925",
+        "fetch": "https://au.shein.com/shein-customized-product-terms-and-conditions-a-1925.html",
+        "select": "#j-new-article-bff",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5ca9ae39d56ed859f77ebf1a3c9ef3c3e3197820"
+      },
+      {
+        "id": "Terms-and-Conditions-a-399",
+        "fetch": "https://au.shein.com/Terms-and-Conditions-a-399.html",
+        "select": [
+          "#j-new-article-bff"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9baeac881ccd8d8fbaf6c58ccb2b28478c41e0bd"
+      }
+    ]
+  }
+}
