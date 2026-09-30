@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:00:14.694Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "privacy-policy-printable",
+        "fetch": "https://mbasic.facebook.com/privacy/policy/printable/",
+        "select": [
+          "#root"
+        ],
+        "remove": [
+          "img",
+          "span",
+          "[href=\"#\"]",
+          ".bi",
+          "a[aria-label=\"Watch video\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "oh",
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d7ac476d04baa52a41f5af78469b7317980185a4"
+      },
+      {
+        "id": "privacy-genai",
+        "fetch": "https://mbasic.facebook.com/privacy/genai",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "img",
+          "span",
+          "[href=\"#\"]",
+          "#genai_more_resources"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "oh",
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f95090a7682e58cc0057a35c17214b86488b9b02"
+      }
+    ]
+  }
+}
