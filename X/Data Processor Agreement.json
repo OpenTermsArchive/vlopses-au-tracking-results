@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:07:33.052Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-data-processing-legal-bases",
+        "fetch": "https://help.x.com/en/rules-and-policies/data-processing-legal-bases",
+        "select": "main",
+        "remove": "[aria-label=\"Breadcrumbs\"]",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cfc17814c4ab10d51fdc0e371b0072ab17652031"
+      }
+    ]
+  }
+}
