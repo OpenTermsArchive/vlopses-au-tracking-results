@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:47:29.269Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policies-other-policies-meta-pay-acceptable-use-policy",
+        "fetch": "https://transparency.meta.com/policies/other-policies/meta-pay-acceptable-use-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "nav"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0d8f4a514506bafd535d64cee07d6003ff4ab223"
+      }
+    ]
+  }
+}
