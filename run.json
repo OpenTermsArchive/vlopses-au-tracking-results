@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-a39c91c2-75d8-4a17-bf1c-0e3d353bbc22",
+  "runId": "ota-run-ceabebbb-c11e-45db-9fdd-6c41728f396f",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-01T00:30:10.570Z",
-    "endDate": "2026-10-01T02:15:22.903Z",
+    "startDate": "2026-10-01T12:30:10.112Z",
+    "endDate": null,
     "engineVersion": "16.2.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "c74274d7845e848f0b7911c3c6c3cfdb16ad670d",
@@ -14,22 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 176,
-    "failed": 17
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Temu",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
