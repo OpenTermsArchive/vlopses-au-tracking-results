@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T02:15:55.553Z",
+    "date": "2026-10-02T14:16:37.440Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           ".mobile-only"
         ],
         "mimeType": "text/html",
-        "snapshotId": "4bc3906143570a7a2fb234756b6af29cce9a586a"
+        "snapshotId": "70cbf69b6030d944a983d19047cb570664b3a1cd"
       },
       {
         "id": "youtube-answer-2807684",
@@ -26,7 +26,7 @@
           ".inline-feedback__trackr"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f43598f5c9ed1a69769199b2dc9e1f34a1fcc290"
+        "snapshotId": "94e78905a7fd845c4a56c55dd9812ece91badee7"
       },
       {
         "id": "youtube-answer-2797454",
@@ -38,8 +38,13 @@
           ".inline-feedback__trackr"
         ],
         "mimeType": "text/html",
-        "snapshotId": "53bb9ff968945ac4727ac0044c9bc6fdf0f391a1"
+        "snapshotId": "c895bf7d6c4c52ba2b22577a2cb49ef23f9d4a7e"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://youtube.com/about/copyright/'"
+      ]
+    }
   }
 }
