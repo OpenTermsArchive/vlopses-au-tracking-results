@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-03T12:30:09.286Z",
-    "endDate": null,
+    "endDate": "2026-10-03T14:15:27.021Z",
     "engineVersion": "16.2.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "c74274d7845e848f0b7911c3c6c3cfdb16ad670d",
@@ -14,17 +14,22 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 176,
+    "failed": 19
   },
   "coverage": {
-    "processed": 0,
+    "processed": 195,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": []
+    "reasonChanges": [
+      {
+        "serviceId": "Bing",
+        "termsType": "Terms of Service"
+      }
+    ]
   },
   "transientErrors": 0
 }
