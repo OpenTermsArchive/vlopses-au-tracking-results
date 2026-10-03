@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-75df4428-65d5-489b-925d-7f4911a17e41",
+  "runId": "ota-run-8aa68f26-6155-4725-b1e0-7c9ac0cf2dca",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-03T00:30:10.085Z",
-    "endDate": "2026-10-03T02:14:35.857Z",
+    "startDate": "2026-10-03T12:30:09.286Z",
+    "endDate": null,
     "engineVersion": "16.2.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "c74274d7845e848f0b7911c3c6c3cfdb16ad670d",
@@ -14,22 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 176,
-    "failed": 18
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 194,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
