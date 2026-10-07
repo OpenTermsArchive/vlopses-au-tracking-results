@@ -1,40 +1,30 @@
 {
-  "runId": "ota-run-721eea42-90de-4529-847d-0a5293102047",
+  "runId": "ota-run-b6aefc94-3ef1-46a4-b077-a2e0910d45c1",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-06T12:30:09.415Z",
-    "endDate": "2026-10-06T14:15:25.197Z",
-    "engineVersion": "16.2.0",
-    "status": "completed"
+    "startDate": "2026-10-07T00:30:09.547Z",
+    "endDate": null,
+    "engineVersion": "16.3.0",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "c74274d7845e848f0b7911c3c6c3cfdb16ad670d",
+    "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
     "services": 23,
     "terms": 199
   },
   "tracked": {
-    "ok": 177,
-    "failed": 19
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 196,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Pornhub",
-        "termsType": "Trackers Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
