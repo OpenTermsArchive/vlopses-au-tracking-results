@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-08T13:48:38.298Z",
+    "date": "2026-10-09T01:50:30.622Z",
     "serviceName": "Shein",
     "sourceDocuments": [
       {
@@ -12,8 +12,8 @@
           ".article-con-item"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5abce48928713d225db4749eb7512171538103d4"
       },
       {
         "id": "ipp",
@@ -21,7 +21,7 @@
         "select": "#property_content_detail",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0fe223ac0b8c22790432c6a51a5df595d4519399"
+        "snapshotId": "e627190f61d93921c6063d6121f15af125135fee"
       },
       {
         "id": "ipp",
@@ -29,11 +29,11 @@
         "select": "#property_content_detail",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "63de19f3f11bb1d42391ad8bc811552dcf2fcfad"
+        "snapshotId": "e627190f61d93921c6063d6121f15af125135fee"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://au.shein.com/copyright-noticeam-a-379.html'"
+      "[extraction] Extract failed: The provided selector \"[\".sui-title-nav__title\",\".article-con-item\"]\" has no match in the web page at 'https://au.shein.com/copyright-noticeam-a-379.html'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
