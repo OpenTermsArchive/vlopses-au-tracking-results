@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-0cec69e5-d131-4464-96c8-321556ce8b2c",
+  "runId": "ota-run-cefc9ed9-a00e-4c5e-b85b-d8b1d26ce24d",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-09T00:30:10.135Z",
-    "endDate": "2026-10-09T02:16:43.269Z",
+    "startDate": "2026-10-09T12:30:09.881Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,22 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 177,
-    "failed": 16
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Shein",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
