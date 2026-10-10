@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:29:58.208Z",
+    "date": "2026-10-10T01:29:50.548Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "78bb1b56af54fbffabf79973463430e8e570c367"
+        "snapshotId": "2f088cafa9dcba4863cf757a8e3fb7403e5024d5"
       },
       {
         "id": "policies-other-policies-terms-of-service",
@@ -33,7 +33,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5dfcd82113e1ad9bd75e96ab5dd8165122d71a54"
+        "snapshotId": "a2b5cdf7ead12b1444fb964e8bff5be4537080fd"
       },
       {
         "id": "legal-ai-terms",
@@ -46,8 +46,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2424141f67e51343dba5c588427c526cd753d9df"
+        "snapshotId": "89c8d7b929a7dcdf7edabde5ba5290a9cdc00278"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/581066165581870'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
