@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:46:48.480Z",
+    "date": "2026-10-10T01:45:41.591Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -23,7 +23,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4db49f08d2b6ccd549a6a80a739618623d4c86ca"
+        "snapshotId": "28bf77617bfc72e6c1f887b5c272619d515bf517"
       },
       {
         "id": "126382350847838",
@@ -40,7 +40,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fc0ea4355daad9072c92ce37f2a1c39121393fa8"
+        "snapshotId": "eb804ebdae4c0eb6f548a5bd0c4916e92ab720ad"
       },
       {
         "id": "222826637847963",
@@ -57,7 +57,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "36faaef0592d0ea272a48b8daa3862766013ab70"
+        "snapshotId": "3b1f3c0496c7e8ccb084ecf92379a8c3d5fbc59c"
       },
       {
         "id": "745146219025379",
@@ -78,7 +78,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2b215bdaa7d46a0ef6604429aa742c2208889aea"
+        "snapshotId": "6810fc074165266d7db265bafe1ee02d8da0732e"
       },
       {
         "id": "782489295246269",
@@ -99,7 +99,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4146b69e5ca488159585c07e3662979bad034442"
+        "snapshotId": "71c6876faf8aef59e7fdcc79b205f56f7b3f8fc1"
       },
       {
         "id": "1992178671014348",
@@ -120,7 +120,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8566ddf535c0189e8ef4c2c934118a2a7217059f"
+        "snapshotId": "4d42233b28fd140bc8ce64ac7483135d0d345118"
       },
       {
         "id": "1896184403962569",
@@ -141,7 +141,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a3c975ae86e63374ed023107a1df3fd2e0727667"
+        "snapshotId": "3ac7a7b2abc3a8d2526ade4ad13b2f7f66a30db6"
       },
       {
         "id": "490539584843747",
@@ -162,7 +162,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "abb6825d28d29439132aee432798ce0cc4fc1074"
+        "snapshotId": "c723d29e28d1fd37d2726594eb87803d6794a847"
       },
       {
         "id": "739368099602634",
@@ -183,7 +183,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "da983321f3db86e2fb1d0b5cda64dcedff2bf201"
+        "snapshotId": "c70b78cf0563e5799a5f1cefc10ae8a5b9efb011"
       },
       {
         "id": "354736791367645",
@@ -204,7 +204,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4a9972a8ce25a0f83909d7e29ca47ee7d9cbe831"
+        "snapshotId": "aab04e5e050446c121373109cfbe8115c0a319aa"
       },
       {
         "id": "116455299019699",
@@ -225,7 +225,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9ecd27b3e80a7fcca7991007a5dced9f2b9a8acd"
+        "snapshotId": "3537dae3343f9c236e8f46146a8b33878d5dc6d8"
       },
       {
         "id": "113605816019642",
@@ -246,7 +246,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aa70d127a2e39564644cb8977b156e31759415ab"
+        "snapshotId": "9c1a777e8683089ab365750c8466f1f5b884ad4f"
       },
       {
         "id": "1445818549016877",
@@ -267,7 +267,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a7ef20014d186c01352430d89b44d24c9a3a5634"
+        "snapshotId": "ccc830fcd49738592853f77fa49e6e478ba5ca8a"
       },
       {
         "id": "1586774981367195",
@@ -288,7 +288,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e7fc70e1973187b4eeccb3f39ef11fcff667d54"
+        "snapshotId": "555f308d9ac0018fb18e88382c33f380ef62feb2"
       },
       {
         "id": "697328657009330",
@@ -309,7 +309,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6bc9700fbef9a4f958f6a34f02ea7d215c1051c2"
+        "snapshotId": "1f34857da9134151912fbd6e4a4f33684da540d7"
       },
       {
         "id": "277982542336146",
@@ -330,7 +330,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0bc3866330d2d522cf3ae07e86c9a4188be1c18e"
+        "snapshotId": "c467afdc1fd7f325fbe90f69785d8c8e8d3912f9"
       },
       {
         "id": "1624041234305603",
@@ -351,7 +351,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1c9223dd2592730be5267559d339caab10ae9a76"
+        "snapshotId": "63f4da91fc3014cb9ee53fb881c1b8406b731cce"
       },
       {
         "id": "625821030869776",
@@ -372,7 +372,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "994c42a4c9ca5e0255da3e49733142e6b12ba245"
+        "snapshotId": "fe062942dd2908cbdfd39a87ad4040eca880cd37"
       },
       {
         "id": "589322221078523",
@@ -393,7 +393,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fe27bc2ee7a377435fb5044560352144e305fae6"
+        "snapshotId": "d007c5edddc0ec36c63b6b9b4c45aa585a3309ea"
       },
       {
         "id": "454257084652404",
@@ -414,7 +414,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4d1f44cadd19583c5f8aabb7ce75cc29a89def3d"
+        "snapshotId": "6006bbd3279a2a58a31dcb7675edb00d6627e217"
       },
       {
         "id": "585021874940806",
@@ -435,7 +435,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ef7066cae367a0d567fcf631017300a06aaaf74b"
+        "snapshotId": "1ced896db5abb99b612b8d80bd731f383f5c5927"
       },
       {
         "id": "366993040573305",
@@ -456,7 +456,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cb706a0cf984e9735abf1761a0b80dace7d1ebde"
+        "snapshotId": "c1ebbe50dd4fc1093a4fa523e2e34cfe553d87fc"
       },
       {
         "id": "746718085394495",
@@ -477,7 +477,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3b501e5fe05d4494e0f6f42606a057b29cac7947"
+        "snapshotId": "ff94db6d4bae3ebaf314433e4fdce225e95596b6"
       },
       {
         "id": "275268756304020",
@@ -498,7 +498,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0d2491b75da9531e4fa5020e76ca67d3b4a93414"
+        "snapshotId": "8317619a06c712840d3d9a2924ed794595b27fc2"
       },
       {
         "id": "693466877515116",
@@ -519,7 +519,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b687f5d7395acb2e7792c1e0c0da0311767eb770"
+        "snapshotId": "dc75158facfc1b96b2c704060278a471741570a1"
       },
       {
         "id": "1904208239817294",
@@ -540,7 +540,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bc7710543393a80f251a25377fb03b67fe70b4a7"
+        "snapshotId": "48e53fa6cb73d09c0ff722ddda1567458ee58fb5"
       },
       {
         "id": "902013803270727",
@@ -561,7 +561,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d54ba38e4ce6a67082127b754172d7a1f1413aa7"
+        "snapshotId": "5453f7852dda6ee689f8d8c39abc955ee80c49da"
       },
       {
         "id": "346906112398235",
@@ -582,7 +582,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a254beb31184144de9d56a3159a160aaeea576a5"
+        "snapshotId": "67b0239cbb30a3016c5544eb689f90e289814b94"
       },
       {
         "id": "606967612731648",
@@ -603,7 +603,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f321a247a28875504f7978806c866758e33c1df8"
+        "snapshotId": "2696601976c272ecce4d439a318dfe5da32900f9"
       },
       {
         "id": "349865072108966",
@@ -624,7 +624,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "31a59b742bce823c4bf64e7945a6d3cc70a2daeb"
+        "snapshotId": "772b08ec185872947006c1874599a0f397430140"
       },
       {
         "id": "499796697033328",
@@ -645,7 +645,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ff4028fdf124a06da73881857a5ea8d8e7f8f011"
+        "snapshotId": "cc73bb94fd66903d147580ebce5bb0540ab060d0"
       },
       {
         "id": "752100651636285",
@@ -666,7 +666,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "af8f92a19adac513e61fd74cdc87fe3bfb3d5a97"
+        "snapshotId": "a93eba0c226cf7c0a41aef5ed44fceb8d220fdcd"
       },
       {
         "id": "739368099602634",
@@ -687,7 +687,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "da983321f3db86e2fb1d0b5cda64dcedff2bf201"
+        "snapshotId": "c70b78cf0563e5799a5f1cefc10ae8a5b9efb011"
       },
       {
         "id": "1500571290191298",
@@ -708,7 +708,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2cba8fa4edaac690a850733bdc0deb82f7914e1f"
+        "snapshotId": "eb6de5ca1acb142067cce1fa4a38c21aa634e1a5"
       },
       {
         "id": "244286600038698",
@@ -729,7 +729,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ca1bf4a6b24f8d5f8ac7569e5354f6a78f20e0d5"
+        "snapshotId": "3c58abf746712a9ec67a8c038d6f775723ac8f0b"
       },
       {
         "id": "1586774981367195",
@@ -750,7 +750,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e7fc70e1973187b4eeccb3f39ef11fcff667d54"
+        "snapshotId": "555f308d9ac0018fb18e88382c33f380ef62feb2"
       },
       {
         "id": "1921828231475726",
@@ -771,7 +771,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "36173cefc6b4619ba9551b0d0ddaebb08f60ad3d"
+        "snapshotId": "c73eb27fd9b06c622f3ff241907407f508b58832"
       },
       {
         "id": "625821030869776",
@@ -792,7 +792,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "994c42a4c9ca5e0255da3e49733142e6b12ba245"
+        "snapshotId": "fe062942dd2908cbdfd39a87ad4040eca880cd37"
       },
       {
         "id": "2039132876317734",
@@ -813,7 +813,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "84a6f7f2017eb475259cadcc20be524d54b00ad6"
+        "snapshotId": "ef018dafba69d16e46764ec9de395d02ce7710d3"
       },
       {
         "id": "454257084652404",
@@ -834,7 +834,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4d1f44cadd19583c5f8aabb7ce75cc29a89def3d"
+        "snapshotId": "6006bbd3279a2a58a31dcb7675edb00d6627e217"
       },
       {
         "id": "1624041234305603",
@@ -855,7 +855,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1c9223dd2592730be5267559d339caab10ae9a76"
+        "snapshotId": "63f4da91fc3014cb9ee53fb881c1b8406b731cce"
       },
       {
         "id": "752100651636285",
@@ -876,7 +876,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "af8f92a19adac513e61fd74cdc87fe3bfb3d5a97"
+        "snapshotId": "a93eba0c226cf7c0a41aef5ed44fceb8d220fdcd"
       },
       {
         "id": "116455299019699",
@@ -897,7 +897,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9ecd27b3e80a7fcca7991007a5dced9f2b9a8acd"
+        "snapshotId": "3537dae3343f9c236e8f46146a8b33878d5dc6d8"
       },
       {
         "id": "364771763628260",
@@ -918,7 +918,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "062a506e5b6d219a929a0d3b4ef97b0986d5f486"
+        "snapshotId": "e9f60146ee029f5d4e6138334d20760ecef65eb8"
       },
       {
         "id": "843303212369793",
@@ -939,7 +939,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a240893f48de559768071e65a39e751e4ec1799c"
+        "snapshotId": "908f4cd73cfedcecb8730c35fcd8c2a461e03bf2"
       },
       {
         "id": "275268756304020",
@@ -960,7 +960,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0d2491b75da9531e4fa5020e76ca67d3b4a93414"
+        "snapshotId": "8317619a06c712840d3d9a2924ed794595b27fc2"
       },
       {
         "id": "576171622509150",
@@ -981,7 +981,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9487cb7df838560244c1e2967e44df91e8302036"
+        "snapshotId": "a1d671961e0d8dee46b8109d942cede7694f74bd"
       },
       {
         "id": "help-instagram-1417735471763678",
@@ -1006,8 +1006,34 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f8c6158add42abafe7cdb5708efc7fe33fe63375"
+        "snapshotId": "939ca08d4faff27c080f8ce6136a8286b959d102"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#help-center-faq-page-container\"]\" has no match in the web page at 'https://help.instagram.com/535503073130320/'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/126382350847838?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/222826637847963?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/782489295246269/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/113605816019642/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1445818549016877/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/697328657009330/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/277982542336146/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/589322221078523/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/585021874940806/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/366993040573305/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/746718085394495/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/693466877515116/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1904208239817294/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/902013803270727/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/346906112398235/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/606967612731648/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/349865072108966/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/499796697033328/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
