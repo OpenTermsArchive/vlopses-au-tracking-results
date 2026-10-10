@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-10T00:30:09.507Z",
-    "endDate": null,
+    "endDate": "2026-10-10T02:15:56.633Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,17 +14,35 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 174,
+    "failed": 20
   },
   "coverage": {
-    "processed": 0,
+    "processed": 194,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Law Enforcement Guidelines"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      }
+    ],
     "recoveries": [],
-    "reasonChanges": []
+    "reasonChanges": [
+      {
+        "serviceId": "Bing",
+        "termsType": "Terms of Service"
+      }
+    ]
   },
   "transientErrors": 0
 }
