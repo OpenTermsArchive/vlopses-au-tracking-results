@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-11T00:30:09.785Z",
-    "endDate": null,
+    "endDate": "2026-10-11T02:15:40.885Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,17 +14,40 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 173,
+    "failed": 21
   },
   "coverage": {
-    "processed": 0,
+    "processed": 194,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Content Monetisation Policy"
+      },
+      {
+        "serviceId": "TikTok",
+        "termsType": "Privacy Policy"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Terms of Service"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Privacy Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }
