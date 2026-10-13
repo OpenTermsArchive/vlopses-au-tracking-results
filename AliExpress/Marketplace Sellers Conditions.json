@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:44:51.621Z",
+    "date": "2026-10-13T14:29:06.101Z",
     "serviceName": "AliExpress",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d8dfd6d7c90cf475cabcff41d923a52be1c7626c"
+        "snapshotId": "bde2bfb184ab2dd81d4a5d2eab8f7586817233b6"
       },
       {
         "id": "rule-channels-37978936-127561565",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b590aa24d31b24d870b8fb0426f56636d28a6085"
+        "snapshotId": "2ab6318f9d447c51b7aa71d82096b5d1026364d9"
       },
       {
         "id": "rule-channels-37978936-137261302",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "04d5c1869ea4c4eb9eecc5611f87d7eeb4fb8ae3"
+        "snapshotId": "51df5e70916513c1f1aa9b1be25841e00334d213"
       },
       {
         "id": "rule-channels-37978936-149930676",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fd8054310610356446c58fe6c2d5f056b56ba565"
+        "snapshotId": "21c9c2000a2537a0e8be7abc95548ba3c7c422e8"
       },
       {
         "id": "rule-channels-37978936-180243954",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7ccab5230b1186ca3f693bb4557b38f8a7e5691f"
+        "snapshotId": "a41b79b110c4be788d727a8eb0acd3f7b5a8dbee"
       },
       {
         "id": "rule-channels-37978936-127561583",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3ce14abc02e8703787c008169b22ade31e48bc98"
+        "snapshotId": "9c6f8ce98106bc8a771e2db506f624b53f876362"
       },
       {
         "id": "rule-channels-37978936-180077641",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e28e6981788fe8e164a4af6f53a781f277ec88f3"
+        "snapshotId": "8df10cd464ab93819cd66d73cbeec1963ffd70b6"
       },
       {
         "id": "rule-channels-37978936-127561551",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b56bf64452cb8d664bebd5407d32cb65b4e36e40"
+        "snapshotId": "fd11346f0e766498e0805dc3e5f3a9f0ca2551a9"
       },
       {
         "id": "rule-channels-37978936-127561552",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "04b99fa5048d5bda7eff05de2b2569090b60792a"
+        "snapshotId": "2d9a6ba655c3023736b46a0dbeb6cedd80b1f025"
       },
       {
         "id": "rule-channels-37978936-127561558",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8120748de9db980c73377f2ea2f6cc3bd4d8aba6"
+        "snapshotId": "98b3007f4f5dab870ac916a4db5bc63f3640a6a6"
       },
       {
         "id": "rule-channels-37978936-137281264",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c8929c91798bc77cc970102d6bc8dde5e1ce5b9e"
+        "snapshotId": "1b06cb4984db72451a3809f5d42f82eb4ff06e47"
       },
       {
         "id": "rule-channels-37978936-138267621",
@@ -182,7 +182,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f910534fc1182647c9c5fc705213878db47ddfc8"
+        "snapshotId": "ad7a093bc011b7e8fc303ba76ffa84e6e5f5d349"
       },
       {
         "id": "rule-channels-37978936-137340756",
@@ -197,7 +197,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6d14e14694737efdc909c1ab56a91e541374663e"
+        "snapshotId": "d81b08d3cd10bd0b9105ab205327ec0ccdf6ee1c"
       },
       {
         "id": "rule-channels-37978936-137260525",
@@ -211,8 +211,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "db7eddb7df34e80a6e127c44bf401a7c262c8b2e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "rule-channels-37978936-137260610",
@@ -227,7 +227,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d2c901a54023c52212248705652805db9505c5fe"
+        "snapshotId": "3a3098ad7d20cfe977eeaaf90a99bf4613700235"
       },
       {
         "id": "rule-channels-37978936-137340843",
@@ -242,7 +242,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7a57d8ac4e8e3f34ec304f78ce25c4e4343a646d"
+        "snapshotId": "55ddc28f2dac8c56f45e9efe730ee18e2a635331"
       },
       {
         "id": "rule-channels-37978936-137340525",
@@ -257,7 +257,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "466a4a859959edf2cfa7b91243cffd9c9de97e0a"
+        "snapshotId": "bec207990d8fac7545ee80c3af257b203f67cdc2"
       },
       {
         "id": "rule-channels-37978936-137340442",
@@ -272,7 +272,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aa50e29ca42186f69351e544e35eb0739ce8606b"
+        "snapshotId": "07afbcbf1bfe20281b63d6389aa22d53d109b54d"
       },
       {
         "id": "rule-channels-37978936-137260452",
@@ -287,7 +287,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ae8ab71e36e37ca0776b5bc17c25735012581724"
+        "snapshotId": "9619f8bb6bea296be3d8280e89e1eb7d1b03e37e"
       },
       {
         "id": "rule-channels-37978936-137340306",
@@ -302,7 +302,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f1ac85a01b8ce3d6334821083a2446c778c77325"
+        "snapshotId": "6e0ade43f50abb0ed1e2908bb7410a86d7660ef2"
       },
       {
         "id": "rule-channels-37978936-137340560",
@@ -317,7 +317,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "82107dac0f44faf73c4c3f8e22101c2993fb01da"
+        "snapshotId": "fad195fc7d949ef0d4a7b9ea3e85b0966d38c12b"
       },
       {
         "id": "rule-channels-37978936-137340393",
@@ -332,7 +332,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2e66de0078658240651c71bc57f7ce3b22be9252"
+        "snapshotId": "28bf9f0958371addcd3c1b3d53ff5c0fa4bdfd41"
       },
       {
         "id": "rule-channels-37978936-137340636",
@@ -347,7 +347,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4d6bb83f706ec60b0d3ca74721b26bb2398ccbf1"
+        "snapshotId": "4347f5a737139a878c102ea7ab78bf311eb4f164"
       },
       {
         "id": "rule-channels-37978936-137340598",
@@ -361,8 +361,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b80a38f68d309bdee8bfa99efd445380ea1a8f60"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "rule-channels-37978936-127561581",
@@ -377,7 +377,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "320c8579ede3ff82031b83d222340e559f738061"
+        "snapshotId": "8276aeadad8d7f98e3c37aaf737b6d271966a5c5"
       },
       {
         "id": "rule-channels-37978936-137340481",
@@ -392,7 +392,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b2cc0d9cc1eb9854e14bf2caf440281e3ff53baa"
+        "snapshotId": "c5fea70fed745c57cc4967a67f8a4efecfff8056"
       },
       {
         "id": "rule-channels-37978936-137340205",
@@ -407,7 +407,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fc48fbd6c9a983e391b478d4fe83a160a6663f48"
+        "snapshotId": "c384a5d217dbb014fb1ca648a67a25b10658c925"
       },
       {
         "id": "rule-channels-37978936-137340711",
@@ -422,7 +422,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "799f05332a9e2c9b0b3766f56f58fc80c4021f4f"
+        "snapshotId": "40d6fb3cb56c5ef39c1367697a45bc1951527532"
       },
       {
         "id": "rule-channels-36963666-156164010",
@@ -437,7 +437,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d401f346e6da94040aabfb86f3a0a1fa56a32305"
+        "snapshotId": "ebf3116540eae51a3d3608c943c7b679eb18717c"
       },
       {
         "id": "rule-channels-37978936-147928969",
@@ -452,7 +452,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4d33f844620c012bea97a3830d9ce212ab815213"
+        "snapshotId": "8b370bbd224db4dc09a1a103170af011ed033cca"
       },
       {
         "id": "rule-channels-37978936-180112229",
@@ -467,7 +467,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bc68c84385d5af2cf73341f347576d872801ca77"
+        "snapshotId": "84ff0e36947bea76665b2fe75fb82e5eedcb0879"
       },
       {
         "id": "rule-channels-36963666-164875170",
@@ -482,7 +482,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "eb0bbc739df24aa0397005f04faf021fb593bbc0"
+        "snapshotId": "0b4c3107f04920c0fbb3a76606bed2e066d700ed"
       },
       {
         "id": "rule-channels-37978936-243523937",
@@ -497,7 +497,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8a92a94b2869897f020eae4cbc78d5484894a44e"
+        "snapshotId": "3431422a746026faf055d1e72b5c1a220ee3f892"
       },
       {
         "id": "rule-channels-37978936-180110655",
@@ -512,7 +512,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ce64c6c105c47f19663ed8e948c07a19de2939fa"
+        "snapshotId": "f3dbea447e413ca35a548d2a55b925ed8809e705"
       },
       {
         "id": "rule-channels-37978936-157566799",
@@ -527,7 +527,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d5af28703f2c0c48cbe977d05d371ce5637e41aa"
+        "snapshotId": "9f2a1adc2611ac2cce8739f1a7d2a8c182aca748"
       },
       {
         "id": "rule-channels-37978936-132341829",
@@ -542,7 +542,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2321ae68c4cd30f5559f1cf2facd6d1b7ce652a0"
+        "snapshotId": "414a0a0210d6ae4a2067c259423c870094b11902"
       },
       {
         "id": "rule-channels-37978936-133166937",
@@ -557,7 +557,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "acd2af0dd72314ed6da42f94ff1bf71e13a799c2"
+        "snapshotId": "40abb806376ebbaa0f5a15ae01f466beb40b368a"
       },
       {
         "id": "rule-channels-37978936-132289376",
@@ -572,7 +572,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5319faa6cd356d9816b08a46cb4c941ed19774fb"
+        "snapshotId": "ae0966710d78a6d328aa08bd2526df0f95844cf3"
       },
       {
         "id": "rule-channels-37978936-235352878",
@@ -587,7 +587,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "230da335e832c259a543e080aaa263b55320487c"
+        "snapshotId": "daaed94a4623c94c916fa7563635c1fe88bcb9da"
       },
       {
         "id": "rule-channels-37978936-237057691",
@@ -602,7 +602,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3bfe3a1a2db256708e74cf41505b8fab327f0da5"
+        "snapshotId": "0c5a048ddb0774e9b9dcde911f521551131e81c5"
       },
       {
         "id": "rule-channels-37978936-240793912",
@@ -617,7 +617,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5933bf4527dfc3db931624597d866717a5d642ea"
+        "snapshotId": "487bfa9798d49e67bdd0bfaac1197172cc705bc8"
       },
       {
         "id": "rule-channels-37978936-243628385",
@@ -632,7 +632,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "707dc914a85c285931e77f8f289322c12ec1d06b"
+        "snapshotId": "5cffa04a1a1e757374728b39b54e65fae04009a7"
       },
       {
         "id": "rule-channels-37978936-211428580",
@@ -647,7 +647,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "92285c0df2af7ebf51f49ac0a2b479e7a63042c6"
+        "snapshotId": "8083db914f19e7ad4c528fbdda4bb0da0abcdc55"
       },
       {
         "id": "rule-channels-37978936-131630255",
@@ -662,7 +662,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a7da172a8ecace287216956fa5add47481d4d5ab"
+        "snapshotId": "111c5fc7e2e22c29d76293a50652763ef6639f67"
       },
       {
         "id": "rule-channels-37978936-132341102",
@@ -677,7 +677,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6aac20f0cb5df3e2bdbde8737220d50d6ccebaa9"
+        "snapshotId": "f1f0b8764c96426f2e1da15786ee80522e5a978f"
       },
       {
         "id": "rule-channels-37978936-160658383",
@@ -692,8 +692,12 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ae65d14dc6466363340209d5f577e6b37d3ba0c3"
+        "snapshotId": "52e2b8a930ab96d6a413df869843fdb6d9b1ef29"
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://rule.aliexpress.com/rule-channels/37978936/137260525'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://rule.aliexpress.com/rule-channels/37978936/137340598'"
     ]
   }
 }
