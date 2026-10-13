@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-32c1e7a2-d4b1-41b0-95e1-addb8922aaff",
+  "runId": "ota-run-b31e3be1-7510-4f41-8388-9f24e6a15675",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-12T12:30:09.448Z",
-    "endDate": "2026-10-12T14:15:02.352Z",
+    "startDate": "2026-10-13T00:30:10.222Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,31 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 174,
-    "failed": 19
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Temu",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
