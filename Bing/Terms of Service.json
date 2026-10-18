@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-16T14:25:44.002Z",
+    "date": "2026-10-18T02:15:55.677Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "span"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "bed59c2b54cfced2146ed42d957e1be12f1f9ddd"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "en-au-microsoft-copilot-for-individuals-termsofuse",
@@ -31,7 +31,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e787462b02f06207339147eb9c99ac4828b27a8a"
+        "snapshotId": "2a9eb6c834844fbc03096bb42cdbf38286ea8ad2"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "eab8c0194dd50c6472c3f27e2baeca3def22e7fa"
+        "snapshotId": "1b5f8d5e6c6e824d54a13724a07dc55f30fdcdb7"
       },
       {
         "id": "en-au-legal-terms-of-use",
@@ -59,8 +59,8 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a5afea5dcc4f29cc8c45e1ab378dfe4a9c0a27ed"
       },
       {
         "id": "terms-EndUserTerms",
@@ -81,7 +81,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/legal/terms-of-use'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'"
     ]
   }
 }
