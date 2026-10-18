@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:49:43.000Z",
+    "date": "2026-10-18T14:16:05.640Z",
     "serviceName": "Pornhub",
     "sourceDocuments": [
       {
@@ -11,7 +11,7 @@
           "#information_dmca"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2d204229c6ac6f8312d0137cac5eb9632bc9bee2"
+        "snapshotId": "1b33f10af1020a8874b12550c5a3a0c6d1feb737"
       },
       {
         "id": "hc-en-au-articles-4419861225107-Copyright",
@@ -21,8 +21,13 @@
           ".article__body"
         ],
         "mimeType": "text/html",
-        "snapshotId": "339042369df856c03a7840ce7d24aece90fd384e"
+        "snapshotId": "153667274e66a4b050b6d4b366505b7eff32c333"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.pornhub.com/information/dmca'"
+      ]
+    }
   }
 }
