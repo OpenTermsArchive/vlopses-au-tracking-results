@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-09-30T01:51:46.234Z",
+    "date": "2026-10-18T14:16:12.050Z",
     "serviceName": "Pornhub",
     "sourceDocuments": [
       {
@@ -11,12 +11,12 @@
           "#information_accessibility"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "8c0aadf480e492c85e7d627212b8ecee9755a40d"
+        "mimeType": null,
+        "snapshotId": null
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#information_accessibility\"]\" has no match in the web page at 'https://www.pornhub.com/information/accessibility'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.pornhub.com/information/accessibility'"
     ]
   }
 }
