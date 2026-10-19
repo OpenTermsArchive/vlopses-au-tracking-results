@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-09b2a5a2-62a2-4e85-9082-f444697cad47",
+  "runId": "ota-run-8ef8d6b5-98bd-4076-97aa-4c3183c1b4ad",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-19T00:30:10.341Z",
-    "endDate": "2026-10-19T02:18:10.167Z",
+    "startDate": "2026-10-19T12:30:10.289Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,38 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 173,
-    "failed": 22
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Pornhub",
-        "termsType": "Quality Guidelines"
-      },
-      {
-        "serviceId": "Temu",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
