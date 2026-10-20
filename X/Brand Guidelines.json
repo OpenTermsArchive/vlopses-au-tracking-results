@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T02:15:17.521Z",
+    "date": "2026-10-20T02:10:39.621Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": "main",
         "remove": "[aria-label=\"Breadcrumbs\"]",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2d930e5583924d69c7600296ecd92093866580c4"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/x-trademark-policy'"
     ]
   }
 }
