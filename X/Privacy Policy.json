@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T02:06:33.610Z",
+    "date": "2026-10-20T02:09:17.710Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -13,7 +13,7 @@
           ".ct17__background"
         ],
         "mimeType": "text/html",
-        "snapshotId": "fe2a90e821e5a1192ea7caf6879fc967da88ef92"
+        "snapshotId": "98cdf8b2dd29bab91b4f75a6fac0736ad2fdb4e4"
       },
       {
         "id": "en-rules-and-policies-x-services-and-corporate-affiliates",
@@ -24,9 +24,12 @@
           "button",
           "h4"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "fa83748bae79f267eb137f8c55c30b82f81650af"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/x-services-and-corporate-affiliates'"
     ]
   }
 }
