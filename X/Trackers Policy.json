@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T02:06:18.555Z",
+    "date": "2026-10-20T02:09:15.655Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": "main",
         "remove": "[aria-label=\"Breadcrumbs\"]",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "bb149d67eb3996da49f3897209c600d29d134a7f"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/x-cookies'"
     ]
   }
 }
