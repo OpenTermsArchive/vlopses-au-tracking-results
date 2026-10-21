@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T02:15:33.195Z",
+    "date": "2026-10-21T14:25:55.037Z",
     "serviceName": "XVideos",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "61bf18f0c606bbd661e86aa01070edb67ec0a20a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "content-fingerprint",
@@ -19,9 +19,13 @@
         "select": [
           "#main"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "1b457ee9a6512941f6ea87e9caa801708a8c19ae"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/legal/piracy'",
+      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/content/fingerprint'"
     ]
   }
 }
