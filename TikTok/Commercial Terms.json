@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T02:01:18.968Z",
+    "date": "2026-10-21T14:23:39.011Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "04883b48ca7f647ab4d153c50f2dae14f7d92f98"
+        "snapshotId": "f974423e0dd1376079d6bbb9062fc41cd80ccba7"
       },
       {
         "id": "i18n-official-policy-business-products-terms",
@@ -25,7 +25,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1e967c748724fba01f0cc735a3e83ff49abeb537"
+        "snapshotId": "483b9e69b1c53c96e946299a717ea664a0d87c5c"
       },
       {
         "id": "i18n-official-policy-commercial-terms-of-service",
@@ -35,7 +35,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bb346a8b96532b900ab80c749636a2bfa7c694c6"
+        "snapshotId": "8290c077d6fd4aaad206d74ed766147e57107703"
       },
       {
         "id": "i18n-official-policy-advertising-terms",
@@ -45,8 +45,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1c1edf35bd54288f3bf202bb2c1d1ea6a8ecbd4b"
+        "snapshotId": "bcaef4c42c58315923ab8b9cdf6ea473e27873c2"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://ads.tiktok.com/help/article/ad-serving-policy'"
+      ]
+    }
   }
 }
