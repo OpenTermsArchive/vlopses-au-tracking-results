@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:59:59.182Z",
+    "date": "2026-10-21T14:08:44.232Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d33051fa9fed79ee0edb29fc56a00483c29d07fc"
+        "snapshotId": "13e88a62dabaeebdec8f7f3863218c568ebb9188"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d95a073c2e2d803eef9474063174880b5e073141"
+        "snapshotId": "9ea2de0f0542f670a61e975ee74deb28f67192e9"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "932f9ebce442400fab8e31aa0c5185eadc116a65"
+        "snapshotId": "cad26b72e28f9ec6dfb9d87e10f1486a055b5dad"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -58,7 +58,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6577d0e1f9b0ef1812cf1ec5cf6fcf19097bc5ce"
+        "snapshotId": "e692ca0ea3ddf0bfed36f3278c82eb09c2eb4bd0"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "05c0789609306e3027719cc1c3dc7065df0744f0"
+        "snapshotId": "05ab8dac6b6cbf4c7a393ce2bf15f8a0a686412a"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -86,7 +86,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2afa1b874063efd4885f6e22c221d5063beae5f2"
+        "snapshotId": "40d6b569fbb5db6e0aa9928da1dac7f50a10a042"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -100,7 +100,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4fcf3e16568345fc3cc20aaefbd3a084d445ad83"
+        "snapshotId": "c5cc43112ecadb05e443c88d6e3a7fa461db6a25"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -114,7 +114,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f12651ba2da944743c2429b56cf5b287cd781b9f"
+        "snapshotId": "04af3d2e3d2055725fb8f8d48742f048f8053c9b"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3d904fbd05abf23e2b8b9975065a000fd60b3e83"
+        "snapshotId": "543392fef3eee3b1f0016928daba5ea4a3140e9e"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -142,7 +142,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d4ae423c1d61fea6f4cae1b21351c9e80dbef538"
+        "snapshotId": "bfc00c39d8bf63645b50bbaaa7f6747bf05d0cb6"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -156,7 +156,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ce8be5491ea68ecded1cdb5c80933de77fbec217"
+        "snapshotId": "ff0afceb4ea3cc09fbaa93bd685f70db0516fbdd"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -170,8 +170,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b8db37124d8b528775b6c820cbe4d0b918450521"
+        "snapshotId": "14e07d23479c29d2382bb8f62e983c0d85449377"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"article\"]\" has no match in the web page at 'https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes/?cgversion=2025H2update'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
