@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-21T12:30:10.004Z",
-    "endDate": null,
+    "endDate": "2026-10-21T14:25:58.714Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,17 +14,76 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 154,
+    "failed": 41
   },
   "coverage": {
-    "processed": 0,
+    "processed": 195,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "newFailures": [
+      {
+        "serviceId": "TikTok",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Acceptable Use Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Trackers Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Acceptable Use Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Trackers Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Terms of Service"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Content Monetisation Policy"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Temu",
+        "termsType": "Privacy Policy"
+      }
+    ]
   },
-  "transientErrors": 0
+  "transientErrors": 1
 }
