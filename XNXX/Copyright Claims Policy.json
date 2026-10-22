@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:25:50.529Z",
+    "date": "2026-10-22T02:05:45.220Z",
     "serviceName": "XNXX",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "70f460a4e5886e8bc6e543c5a3fe45d4a93ed03b"
       },
       {
         "id": "content_removal",
@@ -19,8 +19,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3b8c5a3af13db70c3f204e5452c26a001dc6a63"
       },
       {
         "id": "content-fingerprint",
@@ -28,14 +28,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2d5ea683b00a63d6c31e153a1711dd73250a6cee"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/piracy'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/content_removal'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/content/fingerprint'"
     ]
   }
 }
