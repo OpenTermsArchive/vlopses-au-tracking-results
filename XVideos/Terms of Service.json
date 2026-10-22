@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:25:58.608Z",
+    "date": "2026-10-22T02:06:07.929Z",
     "serviceName": "XVideos",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3b330de352b1d689efa57d73b51b30931d879dfa"
       },
       {
         "id": "account-status",
@@ -19,8 +19,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b064e4e31684617d45f9948091dcf4499d02f31f"
       },
       {
         "id": "legal-tos",
@@ -28,14 +28,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3b330de352b1d689efa57d73b51b30931d879dfa"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/legal/tos'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/account-status'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.red/legal/tos'"
     ]
   }
 }
