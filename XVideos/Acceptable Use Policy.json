@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:25:55.763Z",
+    "date": "2026-10-22T02:05:58.068Z",
     "serviceName": "XVideos",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d401f244c64436076d6eaf93559fca91cb1a83a4"
       },
       {
         "id": "legal-control",
@@ -19,13 +19,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ab4381c9916c0d04e22f94ebb3110928ac0c50ba"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/parents'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/legal/control'"
     ]
   }
 }
