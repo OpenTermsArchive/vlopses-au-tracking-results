@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:25:53.708Z",
+    "date": "2026-10-22T02:05:53.983Z",
     "serviceName": "XNXX",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "32391c96bdc47600cbc82beb36a337919ba1bc76"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/cookiepolicy'"
     ]
   }
 }
