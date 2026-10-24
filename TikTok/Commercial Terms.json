@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-24T02:00:57.827Z",
+    "date": "2026-10-24T14:02:51.017Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "26b1d664a43eeb543823570af1b4e9a4de68845f"
+        "snapshotId": "fa0e3d9b44ad44cc33a180686035d91003e8f5e1"
       },
       {
         "id": "i18n-official-policy-business-products-terms",
@@ -25,7 +25,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ab3121de394ae8e810e795a52acb4fad8ee6cd77"
+        "snapshotId": "bd042ff2a6485607333a4a0f8e52f2eb364c5102"
       },
       {
         "id": "i18n-official-policy-commercial-terms-of-service",
@@ -35,7 +35,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6975088d972fda86574b12af681136ba7c567c9f"
+        "snapshotId": "70baef100e28aa04974d7bd9fb9db87aff6e6c63"
       },
       {
         "id": "i18n-official-policy-advertising-terms",
@@ -47,9 +47,6 @@
         "mimeType": "text/html",
         "snapshotId": "03df8587981451a215b35fc9baf96c7f3487127d"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#articleContainer\"]\" matches an empty content in the web page at 'https://ads.tiktok.com/i18n/official/policy/business-products-terms'"
     ]
   }
 }
