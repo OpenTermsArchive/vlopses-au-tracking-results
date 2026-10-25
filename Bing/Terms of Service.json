@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-24T14:11:28.768Z",
+    "date": "2026-10-25T02:13:55.268Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "591e691540bd1d3ec65a6ff586434f568c833b6b"
+        "snapshotId": "1af0629742d3d51af61de39525b5f37c1f5bbb2b"
       },
       {
         "id": "en-au-microsoft-copilot-for-individuals-termsofuse",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "19051eedb1b138daaeb0f1ad8c4b84ec87bd3b22"
+        "snapshotId": "af09cffd38ad3f21d2dc11eac720522e3410a869"
       },
       {
         "id": "en-au-legal-terms-of-use",
@@ -82,7 +82,7 @@
     ],
     "reasons": [
       "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/microsoft-copilot/for-individuals/termsofuse'",
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/legal/terms-of-use'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/legal/terms-of-use'"
     ]
   }
 }
