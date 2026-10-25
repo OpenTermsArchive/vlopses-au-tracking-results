@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-ea56f1f6-e7be-448b-a640-94cc5b15d1b3",
+  "runId": "ota-run-984cc6b2-7438-47f6-8271-04a1779084b9",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-24T12:30:10.259Z",
-    "endDate": "2026-10-24T14:13:18.281Z",
+    "startDate": "2026-10-25T00:30:10.529Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,36 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 164,
-    "failed": 31
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "TikTok",
-        "termsType": "Commercial Terms"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
