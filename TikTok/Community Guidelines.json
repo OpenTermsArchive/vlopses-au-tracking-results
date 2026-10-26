@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-26T02:02:00.260Z",
+    "date": "2026-10-26T14:04:16.457Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "703c62992dee1ff82d0bc58f009f4b18021c6c19"
+        "snapshotId": "f79f4236a0ab4b8a6f37cba5ec6828980b08b6bd"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -58,7 +58,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e336c412206ee0c307b792fb4720ae5aa94850a"
+        "snapshotId": "f7d390812b0f1ad958922da5fc80be162c268904"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -86,7 +86,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c5cbffbc8a91719abf7f4012ae65ed586d65b912"
+        "snapshotId": "e02333bb43814872d910d22f44e177721b669a9f"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b9896cfee346858a18dca54ac47039da2a556ef2"
+        "snapshotId": "810d0d4865d91fc945641124da1b9f51a225968e"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -172,6 +172,9 @@
         "mimeType": "text/html",
         "snapshotId": "1a4252d2b9412f2f00af26f8141f2823eb37dc7f"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"article\"]\" has no match in the web page at 'https://www.tiktok.com/community-guidelines/en/privacy-security/?cgversion=2025H2update'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
