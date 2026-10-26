@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-19T14:15:02.426Z",
+    "date": "2026-10-26T02:15:17.487Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -33,11 +33,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d064d273dab209a46f42e69c1ad0a5aa8f2b0f15"
+        "snapshotId": "fd3c71569fdacd06b4e45eb72da0cbd096ad6f71"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/privacy/privacystatement'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/privacy/privacystatement'"
     ]
   }
 }
