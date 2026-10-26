@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-25T14:12:27.101Z",
+    "date": "2026-10-26T02:02:00.260Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -58,7 +58,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e874e6c7a1f56e249f6604ec4800a97c1b562f3c"
+        "snapshotId": "4e336c412206ee0c307b792fb4720ae5aa94850a"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a73483865a7a26e8ecbcafcd47e4f88c1fdeb317"
+        "snapshotId": "a822b17c9cd9883a30cf61cad03736b53db6522a"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d527604daabed82b4126f6caa65f4d5d7a034f46"
+        "snapshotId": "b9896cfee346858a18dca54ac47039da2a556ef2"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -172,12 +172,6 @@
         "mimeType": "text/html",
         "snapshotId": "1a4252d2b9412f2f00af26f8141f2823eb37dc7f"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/integrity-authenticity/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/?cgversion=2025H2update'"
-      ]
-    }
+    ]
   }
 }
