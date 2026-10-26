@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-b1e8160d-b322-4da1-bc09-e9528e67b8af",
+  "runId": "ota-run-fce5e418-fc1c-4787-b12e-af34458881a6",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-25T12:30:10.346Z",
-    "endDate": "2026-10-25T14:13:45.453Z",
+    "startDate": "2026-10-26T00:30:10.933Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,35 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 167,
-    "failed": 26
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "recoveries": [],
+    "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }
