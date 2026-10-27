@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T02:05:47.397Z",
+    "date": "2026-10-27T14:19:03.094Z",
     "serviceName": "Wikipedia",
     "sourceDocuments": [
       {
@@ -18,8 +18,13 @@
           ".nomobile"
         ],
         "mimeType": "text/html",
-        "snapshotId": "d09688ef6f978cccdda9c311a79e5909f8dc3704"
+        "snapshotId": "83c9293ac2449bbf8d9843695f2f35dcc0a1963d"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Trademark_Policy'"
+      ]
+    }
   }
 }
