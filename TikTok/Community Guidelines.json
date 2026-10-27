@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-26T14:04:16.457Z",
+    "date": "2026-10-27T02:02:41.746Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f79f4236a0ab4b8a6f37cba5ec6828980b08b6bd"
+        "snapshotId": "e6d10f564a5404dfa1e3ba10f6caadea211c763a"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1bdceb2294e1cb103beacf16e29f4df769704631"
+        "snapshotId": "3a123c5dfb0c7af52af72f8371094f1735f41f3b"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a822b17c9cd9883a30cf61cad03736b53db6522a"
+        "snapshotId": "5256f2010d6b56bec3ebc819536d0b1033f3ea58"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -86,7 +86,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e02333bb43814872d910d22f44e177721b669a9f"
+        "snapshotId": "a3f574b3c8971cae5223794c5d8aaa4f05ec3d66"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -100,7 +100,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c9ceb2742f4c1440d9fe3078bcce37925be286a3"
+        "snapshotId": "918a0659c99775987f69ca38ee5391810c5fd1fe"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "810d0d4865d91fc945641124da1b9f51a225968e"
+        "snapshotId": "7388979711d5b90888d1dd44a171782acbd3a0c9"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -142,7 +142,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ccc8cadabb845e706b0d9bd1315e070a82b8d9b2"
+        "snapshotId": "2c4ebe3a167255eb48312afd1fbcaaead68cfbd8"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -170,11 +170,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1a4252d2b9412f2f00af26f8141f2823eb37dc7f"
+        "snapshotId": "58e65c1d953cb049baadf9c8af8e2138cf13c03c"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"article\"]\" has no match in the web page at 'https://www.tiktok.com/community-guidelines/en/privacy-security/?cgversion=2025H2update'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
