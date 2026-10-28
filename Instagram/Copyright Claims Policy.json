@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-28T01:47:37.464Z",
+    "date": "2026-10-28T13:38:35.750Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -22,8 +22,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ce7b243ac29f62a770c8fbf0b69aaaf9c9e091ce"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "126382350847838",
@@ -39,8 +39,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "172d8a151bc7cb18d966e8a79fd773fcfb011bd7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "222826637847963",
@@ -56,8 +56,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2b7766b2e07a204a7d4e53ccde58b7515e8c5494"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "745146219025379",
@@ -77,8 +77,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d69e93abd9806d96caa51e92561db6eb8a4fb45f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "782489295246269",
@@ -98,8 +98,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "902b562a4bd6fcf39215df25d5c452b1977d18da"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1992178671014348",
@@ -119,8 +119,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d4d89ec8c26c35437ece890532c5ac3d7ae7095b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1896184403962569",
@@ -140,8 +140,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "40bcb860d043a7e5421afc0a41c66bcb6e9ca0f5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "490539584843747",
@@ -161,8 +161,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "677ccc5919d73c7506b37f5879ec6007e2675fda"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "739368099602634",
@@ -182,8 +182,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e7ecbf143fd700d31ec73cf8b86d5b76709ae072"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "354736791367645",
@@ -203,8 +203,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "3bf5a1efe4f5aee2c44174cebf99f593b6bd23e6"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "116455299019699",
@@ -224,8 +224,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2535e431ecf645063922bcabbded38a941225e1a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "113605816019642",
@@ -245,8 +245,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "abc02e19295a896be26802e91dc3b1d4b2e8e508"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1445818549016877",
@@ -266,8 +266,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b870513cf1ea7e89425f7ad444ad73c9d500a514"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1586774981367195",
@@ -287,8 +287,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9856cc76f0aa43c26ed641619e2ff78d071ad392"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "697328657009330",
@@ -308,8 +308,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "99389942cd7dc7254234e044b231a11121d8a574"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "277982542336146",
@@ -329,8 +329,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2cdbece287a951ea98c2ca26e466338f56197668"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1624041234305603",
@@ -350,8 +350,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0296d248368f1111dab8a75d0b70e676a9516ba5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "625821030869776",
@@ -371,8 +371,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b1f07e8aa46ffdee795c5d58882bdd4872788b83"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "589322221078523",
@@ -392,8 +392,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2e2a6de0b83a0416868efb702fe9200572ece6de"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "454257084652404",
@@ -413,8 +413,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "96b7c614a2e96c4bef97e4606f77e91ae60ec569"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "585021874940806",
@@ -434,8 +434,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0c85ca30db1b5cd5cb5f04cdd48305c7db12d78a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "366993040573305",
@@ -455,8 +455,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c1d10ec1317cb7e4a5053ae03686de972566ab29"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "746718085394495",
@@ -476,8 +476,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "51433cd5228b3bd3adf801b588e449f0d041e449"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "275268756304020",
@@ -497,8 +497,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "5f27e8ac1e729fed94047d8777ce85698ecfb250"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "693466877515116",
@@ -518,8 +518,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "89d39d87676d9c8bc7e61d8228b810e56f51ee31"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1904208239817294",
@@ -539,8 +539,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "fe50c1c4fb00e7615a42a0f0d51816f2a843b5be"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "902013803270727",
@@ -560,8 +560,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "33b48d57478e28fad3e6e4b55f1b3c88a25e1adf"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "346906112398235",
@@ -581,8 +581,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "80cbeab0846367ee86f26c56c7de8db486bf00f1"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "606967612731648",
@@ -602,8 +602,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "6e6ac07002d42ed89fe44437817b30bed2e05787"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "349865072108966",
@@ -623,8 +623,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e52899a8cb49a25bfd609f04482afdb1de10acf7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "499796697033328",
@@ -644,8 +644,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e4b1e65c36c4dc0d9eec3be40a8fd5baa1ae80eb"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "752100651636285",
@@ -665,8 +665,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "8514f4801d726056caecd5692d15f0bfb8a98207"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "739368099602634",
@@ -686,8 +686,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e7ecbf143fd700d31ec73cf8b86d5b76709ae072"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1500571290191298",
@@ -707,8 +707,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "51ac0e5272e5029d5d8c9a06a2abdfd0605bd351"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "244286600038698",
@@ -728,8 +728,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "bbe3152dd4144594ceaca2465fee8c1b9af57a54"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1586774981367195",
@@ -749,8 +749,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9856cc76f0aa43c26ed641619e2ff78d071ad392"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1921828231475726",
@@ -770,8 +770,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "8fdccda7a932d9f979c542500504489acd10a01b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "625821030869776",
@@ -791,8 +791,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b1f07e8aa46ffdee795c5d58882bdd4872788b83"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "2039132876317734",
@@ -812,8 +812,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "11d269d17280fdffa424c46d52e61595924b801b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "454257084652404",
@@ -833,8 +833,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "96b7c614a2e96c4bef97e4606f77e91ae60ec569"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1624041234305603",
@@ -854,8 +854,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0296d248368f1111dab8a75d0b70e676a9516ba5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "752100651636285",
@@ -875,8 +875,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "8514f4801d726056caecd5692d15f0bfb8a98207"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "116455299019699",
@@ -896,8 +896,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2535e431ecf645063922bcabbded38a941225e1a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "364771763628260",
@@ -917,8 +917,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c59b92cc12a35dda364c4eaf35ac81213f90a237"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "843303212369793",
@@ -938,8 +938,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "f266443fd1e71bdb7ed3d0eb6b42d754b1e2b086"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "275268756304020",
@@ -959,8 +959,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "5f27e8ac1e729fed94047d8777ce85698ecfb250"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "576171622509150",
@@ -980,8 +980,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c9cc19159c29829cea7b5921195cecbf07826976"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "help-instagram-1417735471763678",
@@ -1006,55 +1006,57 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9739dbf2ceb93d20278e6d7278b20d259b1380be"
+        "snapshotId": "772499f98aaaa37653e361e354c01b625f7c8257"
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#help-center-faq-page-container\"]\" has no match in the web page at 'https://help.instagram.com/535503073130320/'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/126382350847838?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/222826637847963?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/782489295246269/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/116455299019699/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/113605816019642/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1445818549016877/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/697328657009330/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/277982542336146/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/589322221078523/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/585021874940806/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/366993040573305/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/746718085394495/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/693466877515116/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1904208239817294/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/902013803270727/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/346906112398235/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/606967612731648/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/349865072108966/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/499796697033328/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/752100651636285/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1500571290191298/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/244286600038698/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1921828231475726/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/2039132876317734/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/752100651636285?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/116455299019699?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/364771763628260/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/843303212369793/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/576171622509150/?helpref=uf_permalink&parent_cms_id=222826637847963'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/535503073130320/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/126382350847838?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/222826637847963?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/782489295246269/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/116455299019699/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/113605816019642/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1445818549016877/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/697328657009330/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/277982542336146/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/589322221078523/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/585021874940806/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/366993040573305/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/746718085394495/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/693466877515116/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1904208239817294/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/902013803270727/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/346906112398235/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/606967612731648/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/349865072108966/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/499796697033328/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/752100651636285/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1500571290191298/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/244286600038698/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1921828231475726/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/2039132876317734/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/752100651636285?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/116455299019699?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/364771763628260/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/843303212369793/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/576171622509150/?helpref=uf_permalink&parent_cms_id=222826637847963'"
     ]
   }
 }
