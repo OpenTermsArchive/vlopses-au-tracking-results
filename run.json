@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-1356532c-c6f7-4b29-9933-ca3e241c7c3d",
+  "runId": "ota-run-bf3d708f-f3c7-4969-a0f0-9bce296d9531",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-31T00:30:10.362Z",
-    "endDate": "2026-10-31T02:15:03.012Z",
+    "startDate": "2026-10-31T12:30:09.717Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,34 +14,16 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 166,
-    "failed": 27
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Data Processor Agreement"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      }
-    ],
+    "newFailures": [],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0
