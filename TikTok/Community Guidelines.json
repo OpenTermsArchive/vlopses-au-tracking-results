@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-31T14:04:42.615Z",
+    "date": "2026-11-01T02:03:28.193Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -170,11 +170,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c0098569221c1417d5933b3b4bd54b88e98c05e5"
+        "snapshotId": "d084bd3676084957076f50906d85db45a402721e"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"article\"]\" has no match in the web page at 'https://www.tiktok.com/community-guidelines/en/enforcement/?cgversion=2025H2update'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
