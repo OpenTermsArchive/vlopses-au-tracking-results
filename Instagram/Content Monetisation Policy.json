@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-01T13:46:27.522Z",
+    "date": "2026-11-02T01:47:18.976Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9e629b3f8078e4f6b4d8be1d240e774e18738509"
+        "snapshotId": "b9c74dda79de9f6860e3f56532387e9bc90d811f"
       },
       {
         "id": "512371932629820",
@@ -32,11 +32,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c9061f659c8d5e6d1d6d0e598e8192d241598ab7"
+        "snapshotId": "6fc8089a56d2c999783fbf4c1a058ff51d08a5cd"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/512371932629820?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
