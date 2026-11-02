@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-02T01:46:54.399Z",
+    "date": "2026-11-02T13:46:18.659Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -23,7 +23,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "179a92e886c12e32ba4597c850454570fdc8d686"
+        "snapshotId": "1635363f923705b965c5f68a2b2056054293bd53"
       },
       {
         "id": "126382350847838",
@@ -40,7 +40,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "69f27c02a1ca35dd0efddcb7abb7cd077b88792c"
+        "snapshotId": "1266f9198071a00304901802294f926c6485bd0d"
       },
       {
         "id": "222826637847963",
@@ -57,7 +57,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a5c0093b1a760b07fba7770c5a76d0ea2635321d"
+        "snapshotId": "c43dd8a41bb138ccbbb1ae34d2e64a7b5d53f05b"
       },
       {
         "id": "745146219025379",
@@ -78,7 +78,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1184b431db08476853fb5bdc5f8ac69e9888fc93"
+        "snapshotId": "584eea8d164838e8ccacdf1c5f464dee13bb58bb"
       },
       {
         "id": "782489295246269",
@@ -99,7 +99,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1d064c7cf0a2903975448381851cf50a17089359"
+        "snapshotId": "fb53bb94b20e877bf38e301d1ba239d61c789520"
       },
       {
         "id": "1992178671014348",
@@ -120,7 +120,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4f88bfa9fce05cbc0199a6d5e68c081f589382e4"
+        "snapshotId": "83d23e366ba4cfb6eadce7e3c2df1d320d2bebe7"
       },
       {
         "id": "1896184403962569",
@@ -141,7 +141,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e32eeb7d742632cf9587e0f52e725d532bcc8378"
+        "snapshotId": "f299f185781f2f73ec5fe5b69156521364df18e5"
       },
       {
         "id": "490539584843747",
@@ -162,7 +162,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f6d509c8b6188615d5fb46dd497170d10e490405"
+        "snapshotId": "5dadb79cc0684e950077770c7be8eaabdeddaece"
       },
       {
         "id": "739368099602634",
@@ -183,7 +183,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8339106dfff246c599e28b4eb291e630331843f7"
+        "snapshotId": "2c889d5df7c2bc65ad0ddd849f0b572055a11427"
       },
       {
         "id": "354736791367645",
@@ -204,7 +204,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "667bcee69f70d1c51c42080cb436dae149a53da7"
+        "snapshotId": "04505dc8835979ea6290f55f06dc0f2a917d220a"
       },
       {
         "id": "116455299019699",
@@ -225,7 +225,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "61226b5f618b6a3c91399781ac76de8f249d2b36"
+        "snapshotId": "bc808255f7001373766f727b63832f2ed3b0c765"
       },
       {
         "id": "113605816019642",
@@ -246,7 +246,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ca82f3e885a55c5f6fdf4717319f5caa16662732"
+        "snapshotId": "0079f18b5aa3a8b76c0e0f56321e481ea4f11a7b"
       },
       {
         "id": "1445818549016877",
@@ -267,7 +267,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5cd2531640ec8d8954d2e312c39687632c515a9c"
+        "snapshotId": "5d49ee03500827d71997670f25c9f7aaf59e5e18"
       },
       {
         "id": "1586774981367195",
@@ -288,7 +288,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ad6e17c882eddcd6d79dc803a377fe4b891cad2"
+        "snapshotId": "dab9077dc3b67ec766534db1f4d655ff82d4f1a7"
       },
       {
         "id": "697328657009330",
@@ -309,7 +309,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1ae11f529713ac6841a6d73cae4f86f366567940"
+        "snapshotId": "cba6b2de74f44bc1de38e67302dc6bbcfce55362"
       },
       {
         "id": "277982542336146",
@@ -330,7 +330,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "746373623f264c41a020c1efdd9c5240837401b4"
+        "snapshotId": "1d57d32ecf27e94bc0fc0ec0910f07fbd0efa8c3"
       },
       {
         "id": "1624041234305603",
@@ -351,7 +351,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e6293ddc74252afeb73e948a1a5820f572e727b8"
+        "snapshotId": "5eb72195344fa706f88c6f8fb417b2a30107d56e"
       },
       {
         "id": "625821030869776",
@@ -372,7 +372,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a19fb0d7f64f1df8a05295fc75b11f786b26a0e6"
+        "snapshotId": "f9814c03c60f9e2bc36cba58b7dbd0ed8f511642"
       },
       {
         "id": "589322221078523",
@@ -393,7 +393,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2f500f6003fdf73065d805bcbccefce18bb55f31"
+        "snapshotId": "753c66a736d183fdee4b4dc99be41050d679665f"
       },
       {
         "id": "454257084652404",
@@ -414,7 +414,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "306806434131da8409dc75aab34677b132347fc2"
+        "snapshotId": "71105077f5ffde13d446ce8d313d35769b072258"
       },
       {
         "id": "585021874940806",
@@ -435,7 +435,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6f7b2e158b2a33e19b6c886390ae3b34c7748f83"
+        "snapshotId": "c083badd3dcbe972b3d5a6e6b7daca4498f8178e"
       },
       {
         "id": "366993040573305",
@@ -456,7 +456,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd8cee8d0ae3a3d8eea506dab9300b053bce4fbf"
+        "snapshotId": "922a00114660e1934aa68486db88ca1e682b8a72"
       },
       {
         "id": "746718085394495",
@@ -477,7 +477,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "faa7bba7c4424d2be8d77865fee32d8e009a8c04"
+        "snapshotId": "f75a1be22878daa3bb0c6c76848d657a9d3208af"
       },
       {
         "id": "275268756304020",
@@ -498,7 +498,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "21073d772d46ad2c4c6809a31d6d85393fd32405"
+        "snapshotId": "46fad99df5a1ce0455505e37147f4f2fbeb781b1"
       },
       {
         "id": "693466877515116",
@@ -519,7 +519,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9da6d29a761902fccf40b6e23ff20792ac10d779"
+        "snapshotId": "a2c5646e604441c38b32e12063022be05df55859"
       },
       {
         "id": "1904208239817294",
@@ -540,7 +540,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e67996e8232f5a5273b14542e18fe6e1dff5c264"
+        "snapshotId": "a801e232fd1f838c89ea0ae29437a226ad4e2f43"
       },
       {
         "id": "902013803270727",
@@ -561,7 +561,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5009efb7db6e479c8d6dde79d5c1595a52bb85d8"
+        "snapshotId": "faf140a14cda066921529d6381e12381f172f073"
       },
       {
         "id": "346906112398235",
@@ -582,7 +582,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e27effc9667888c02247b80a7ab48a39f4a24d77"
+        "snapshotId": "e3c5e24b8dbde19e53042d2dea89f14ee11a3c29"
       },
       {
         "id": "606967612731648",
@@ -603,7 +603,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a44c14f3dd711427c140ede9f53f6f2be944a2e3"
+        "snapshotId": "6560ab988fd8f51dda992dc6beeb1e1fd18ff3af"
       },
       {
         "id": "349865072108966",
@@ -624,7 +624,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ced23fb4b98a082402c509241f5f46876d06345"
+        "snapshotId": "92d45cf9fe2adf86b153e278c0e403ef741847dd"
       },
       {
         "id": "499796697033328",
@@ -645,7 +645,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fca013992929eba03c0771e97715ca8837358791"
+        "snapshotId": "4f02eb48da899246817c5526c2db3c1725781dac"
       },
       {
         "id": "752100651636285",
@@ -666,7 +666,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9847bb8729656dfe617f62a6814d273ca11ff680"
+        "snapshotId": "84ca3113f4eb061403639038f1c2fb813c79aace"
       },
       {
         "id": "739368099602634",
@@ -687,7 +687,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8339106dfff246c599e28b4eb291e630331843f7"
+        "snapshotId": "2c889d5df7c2bc65ad0ddd849f0b572055a11427"
       },
       {
         "id": "1500571290191298",
@@ -708,7 +708,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9d372646358c081f231f27d2e04c584e4c356490"
+        "snapshotId": "42ce352484ea7a8731bc4c9267909bc4a8ebe266"
       },
       {
         "id": "244286600038698",
@@ -729,7 +729,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3293038a8cbd96af7832c0931221467b95c0fc1b"
+        "snapshotId": "49f01c19fad561a95b173bce82f871163e8ada8f"
       },
       {
         "id": "1586774981367195",
@@ -750,7 +750,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ad6e17c882eddcd6d79dc803a377fe4b891cad2"
+        "snapshotId": "dab9077dc3b67ec766534db1f4d655ff82d4f1a7"
       },
       {
         "id": "1921828231475726",
@@ -771,7 +771,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c13712813c11c0de61530e8d28f665dec7baa972"
+        "snapshotId": "627b7262a99cb9643d895328ab027a7f99e64cb9"
       },
       {
         "id": "625821030869776",
@@ -792,7 +792,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a19fb0d7f64f1df8a05295fc75b11f786b26a0e6"
+        "snapshotId": "f9814c03c60f9e2bc36cba58b7dbd0ed8f511642"
       },
       {
         "id": "2039132876317734",
@@ -813,7 +813,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2e5c5b3e78ff8fe51a585efa7b559ec7e14d872e"
+        "snapshotId": "3c9b4edb3ab9df59415f45c7a0a9f7c30a0d5f9d"
       },
       {
         "id": "454257084652404",
@@ -834,7 +834,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "306806434131da8409dc75aab34677b132347fc2"
+        "snapshotId": "71105077f5ffde13d446ce8d313d35769b072258"
       },
       {
         "id": "1624041234305603",
@@ -855,7 +855,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e6293ddc74252afeb73e948a1a5820f572e727b8"
+        "snapshotId": "5eb72195344fa706f88c6f8fb417b2a30107d56e"
       },
       {
         "id": "752100651636285",
@@ -876,7 +876,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9847bb8729656dfe617f62a6814d273ca11ff680"
+        "snapshotId": "84ca3113f4eb061403639038f1c2fb813c79aace"
       },
       {
         "id": "116455299019699",
@@ -897,7 +897,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "61226b5f618b6a3c91399781ac76de8f249d2b36"
+        "snapshotId": "bc808255f7001373766f727b63832f2ed3b0c765"
       },
       {
         "id": "364771763628260",
@@ -918,7 +918,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fff766bbd84d774d29b327698c79400a268c33ad"
+        "snapshotId": "e4a872c224f594202b646946747b3a5c6a245970"
       },
       {
         "id": "843303212369793",
@@ -939,7 +939,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "765a7c97da6ef81b32a123a724f9c38672f10bc5"
+        "snapshotId": "3d83714178812b532e2de78f89bd7cc7da93b5ac"
       },
       {
         "id": "275268756304020",
@@ -960,7 +960,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "21073d772d46ad2c4c6809a31d6d85393fd32405"
+        "snapshotId": "46fad99df5a1ce0455505e37147f4f2fbeb781b1"
       },
       {
         "id": "576171622509150",
@@ -981,7 +981,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2209a664109bf4afafc4688b9fd452673b15e520"
+        "snapshotId": "fc19912274c524485c8166f8557e52f8088beafb"
       },
       {
         "id": "help-instagram-1417735471763678",
@@ -1006,17 +1006,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "726367ff839a4e15fd5f70ae7d0c83acf8314040"
+        "snapshotId": "2dae7aacb4e9f8799218650f7b544f12b0b0bd9d"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/126382350847838?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/222826637847963?helpref=faq_content'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
-      "[extraction] Extract failed: The provided selector \"[\"div[role=\\\"main\\\"]\"]\" has no match in the web page at 'https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
