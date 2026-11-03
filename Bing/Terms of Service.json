@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-03T02:14:51.563Z",
+    "date": "2026-11-03T14:15:20.669Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -31,7 +31,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "693e1c33438464de1c9fe3aa10cfc940c5b93570"
+        "snapshotId": "f480dc0e79f64eab50926f4d86cf596bb18530ed"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "12ef7dc69ac165c997a6a86d26f34c83d5a7e3fd"
+        "snapshotId": "e2cf3098bf142ec6a93f04841daf3b5b19926132"
       },
       {
         "id": "en-au-legal-terms-of-use",
@@ -59,8 +59,8 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9bc25a0a0a2c3e40d5dcf9a99459f970af25663f"
       },
       {
         "id": "terms-EndUserTerms",
@@ -81,8 +81,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/legal/terms-of-use'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'"
     ]
   }
 }
