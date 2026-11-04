@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:20:47.487Z",
+    "date": "2026-11-04T01:19:55.163Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           "nav"
         ],
         "mimeType": "text/html",
-        "snapshotId": "57eaa88fc3ddd38c5bae1e6c55faae6fd2fc9a8a"
+        "snapshotId": "49c639f7433aefd2edf74016d97b09483e6e40d6"
       },
       {
         "id": "maps-platform-terms-tssg",
@@ -28,8 +28,11 @@
           "nav"
         ],
         "mimeType": "text/html",
-        "snapshotId": "6756de445d9af00ecdd5adf3489ee839d957fc28"
+        "snapshotId": "3f777550bc2fb193d17bc9421115a83d3dabe131"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#module-3\",\"#module-5\"]\" has no match in the web page at 'https://cloud.google.com/maps-platform/terms/sla'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
