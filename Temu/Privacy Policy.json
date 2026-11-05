@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-04T13:58:21.985Z",
+    "date": "2026-11-05T13:57:13.453Z",
     "serviceName": "Temu",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ec2279754608069355329769c7d2cab69ca3fc13"
+        "snapshotId": "b6407d5b8d36751d8e18a90d732c660c375678a4"
       },
       {
         "id": "common-policy",
@@ -27,8 +27,8 @@
           "#anchorWrap"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "13159901ec7d8b901c61eb609863381e2757c19b"
       },
       {
         "id": "cookie-and-similar-technologies-policy",
@@ -38,7 +38,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8d74550c75d0c6459db36a692155876481a799da"
+        "snapshotId": "b8f2f3d36ac72f9249fa6308691a232028a36546"
       },
       {
         "id": "bgp-privacy-policy-and-setting",
@@ -53,11 +53,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c50bda2618ee3db91baf36ecb3446437e663bd54"
+        "snapshotId": "c240f0f8bbf903b730dd41452556ce57a909ca74"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Execution context was destroyed, most likely because of a navigation."
+      "[extraction] Extract failed: The provided selector \"[\"#policyContent\"]\" has no match in the web page at 'https://www.temu.com/common-policy.html?protocol_type=12'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
