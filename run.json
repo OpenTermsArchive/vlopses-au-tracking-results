@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-8deabda5-6500-4ad4-99cf-de6d0dad9634",
+  "runId": "ota-run-5694b66c-84a3-4a0d-bf23-1d829ec5d092",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-04T12:30:10.533Z",
-    "endDate": "2026-11-04T14:17:34.345Z",
+    "startDate": "2026-11-05T00:30:10.740Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "a34d6d190868211f64e0e1ff577f901a72b66d70",
@@ -14,52 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 163,
-    "failed": 33
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 196,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Data Processor Agreement"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "AliExpress",
-        "termsType": "Marketplace Sellers Conditions"
-      },
-      {
-        "serviceId": "Google Maps",
-        "termsType": "Service Level Agreement"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      },
-      {
-        "serviceId": "Temu",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
