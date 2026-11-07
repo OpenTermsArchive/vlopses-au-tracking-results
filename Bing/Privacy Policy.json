@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-29T02:14:42.993Z",
+    "date": "2026-11-07T00:49:24.665Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -33,11 +33,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "10cad098b0e24fb1c725bbbf7e3d1259075c0752"
+        "snapshotId": "f1c9e8981ae9d6d667ec3733e970369b766cbc0e"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/privacy/privacystatement'"
+      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://www.microsoft.com/en-au/privacy/privacystatement'"
     ]
   }
 }
