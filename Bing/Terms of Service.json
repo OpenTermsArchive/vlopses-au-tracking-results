@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-07T02:27:55.302Z",
+    "date": "2026-11-07T14:26:22.847Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -31,7 +31,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd61d452aeb1d048a41e8c8111b3d3ef4009ab2d"
+        "snapshotId": "c627ef59daacfe204df8adb28fc2500e4ad3a709"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "439a7d0a0870424cc6deee9bc14551fb96337bd6"
+        "snapshotId": "eb684d4afeca93c2dd3cf669cc768b10ac78f542"
       },
       {
         "id": "en-au-legal-terms-of-use",
@@ -59,8 +59,8 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "252999adc767a3ee0756ba301b9d9f99a2ccec32"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "terms-EndUserTerms",
@@ -81,7 +81,8 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'",
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/legal/terms-of-use'"
     ]
   }
 }
