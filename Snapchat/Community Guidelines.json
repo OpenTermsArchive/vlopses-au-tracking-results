@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-07T13:52:45.970Z",
+    "date": "2026-11-08T01:52:01.455Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "25457537a249a2f30761512a2b92f3c6a17552b9"
+        "snapshotId": "a5fc39f37f6b1abb1414f244e7264dd8615006ee"
       },
       {
         "id": "privacy-transparency-community-guidelines-severe-harm",
@@ -27,7 +27,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "43aafa6ffd9d4f081e770e8088d916c3ccfdbdc0"
+        "snapshotId": "e3a714e11561bbdb982cca6d8c8805d6ea2115fc"
       },
       {
         "id": "policy-policy-community-guidelines-threats-violence-harm",
@@ -51,7 +51,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "8d472678de109a1ca0aea16dfbdfce82391e9d30"
+        "snapshotId": "2649ff35be5c9913f98a83e820b5eb75ef9b4f40"
       },
       {
         "id": "policy-policy-community-guidelines-hateful-content-terrorism-violent-extremism",
@@ -63,7 +63,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f0d0c59820cb1f3896d72b6829839d0e1c4c9f5a"
+        "snapshotId": "4bef2880ac5c12535ad9d10ac281f4983c0886d0"
       },
       {
         "id": "policy-policy-community-guidelines-harassment-bullying",
@@ -75,7 +75,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "1b54c8f478da00c104e86b23ca49a265979377ae"
+        "snapshotId": "c360f286a603db937fdca3c940e957ae3338bfdc"
       },
       {
         "id": "policy-policy-community-guidelines-sexual-content",
@@ -87,7 +87,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e24501a6e81f265ffd6ee4ef2b74f04b09e92b1a"
+        "snapshotId": "f41f9d7d0703bddd56c9214ffdacde0b9f1676dc"
       },
       {
         "id": "policy-policy-community-guidelines-harmful-false-deceptive-practices",
@@ -97,11 +97,8 @@
           ".sdsm-block-boundary"
         ],
         "mimeType": "text/html",
-        "snapshotId": "23109991568cbca61dd8c885120606c37c6493ed"
+        "snapshotId": "4dc77ef9b7acbff7b22653156c4e2ba9901fdbfe"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"main\" matches an empty content in the web page at 'https://values.snap.com/privacy/transparency/community-guidelines/severe-harm'"
     ]
   }
 }
