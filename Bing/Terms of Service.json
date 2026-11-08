@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-08T02:09:27.901Z",
+    "date": "2026-11-08T14:23:32.594Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "span"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "93066c8a88990270dfab5684589cf089ce8cabf2"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "en-au-microsoft-copilot-for-individuals-termsofuse",
@@ -30,8 +30,8 @@
           "a.copilot_brand"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "53347c3547055263ea928c147ef26e962d6eb37c"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "abcb52a83e8e0609c88d5b048352f0cc58ceaf68"
+        "snapshotId": "d3de7273be6172a3c4122ad78e72230f14f3952d"
       },
       {
         "id": "en-au-legal-terms-of-use",
@@ -60,7 +60,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0b69e05c234c94a0a0bf2f8a4b480f369ec8c815"
+        "snapshotId": "7b4acc2b71da0af392c016492c64a2a64c2e3499"
       },
       {
         "id": "terms-EndUserTerms",
@@ -81,7 +81,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-au/microsoft-copilot/for-individuals/termsofuse'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-au/servicesagreement'"
     ]
   }
 }
