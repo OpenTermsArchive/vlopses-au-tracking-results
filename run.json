@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-11T00:30:10.972Z",
-    "endDate": null,
+    "endDate": "2026-11-11T02:10:01.826Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,17 +14,27 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 168,
+    "failed": 28
   },
   "coverage": {
-    "processed": 0,
+    "processed": 196,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "recoveries": [
+      {
+        "serviceId": "AliExpress",
+        "termsType": "Marketplace Sellers Conditions"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Bing",
+        "termsType": "Privacy Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }
