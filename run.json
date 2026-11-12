@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-f0ce4926-2de5-4c24-97b1-348624b8b1c5",
+  "runId": "ota-run-5087aacc-e64a-4783-934f-b62a423799a5",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-11T12:30:10.678Z",
-    "endDate": "2026-11-11T14:21:16.040Z",
+    "startDate": "2026-11-12T00:30:11.407Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,20 +14,15 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 167,
-    "failed": 28
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "AliExpress",
-        "termsType": "Marketplace Sellers Conditions"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
