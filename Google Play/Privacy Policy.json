@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:26:40.561Z",
+    "date": "2026-11-13T14:21:30.776Z",
     "serviceName": "Google Play",
     "sourceDocuments": [
       {
@@ -11,7 +11,7 @@
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fec7625ef290834c1b60485701165e9c8a068c2a"
+        "snapshotId": "568bd507f05d284d320eeb9e188eb130e21a8541"
       },
       {
         "id": "googleplay-android-developer-answer-16324062",
@@ -20,7 +20,7 @@
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "33dab678d6cef6f58a78d9f8ef92aa63997a900a"
+        "snapshotId": "316c74df867518c21fae935081204678b5019100"
       },
       {
         "id": "googleplay-android-developer-answer-9888077",
@@ -29,8 +29,13 @@
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "45089882cd44e115570d4c65eb35893de133defa"
+        "snapshotId": "d4f30e97fc8c94aa7b0411949ca4ef67cf4962eb"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888077?hl=en-IE'"
+      ]
+    }
   }
 }
