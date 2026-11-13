@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-12T02:24:45.385Z",
+    "date": "2026-11-13T00:53:35.256Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -16,12 +16,12 @@
           ".ocArticleFooterSection"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "cfc83c1d87521a04610085849ed769d5b3d42497"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.microsoft.com/en-au/topic/how-bing-delivers-search-results-d18fc815-ac37-4723-bc67-9229ce3eb6a3'"
+      "[extraction] Extract failed: The provided selector \"[\"#supArticleContent\"]\" has no match in the web page at 'https://support.microsoft.com/en-au/topic/how-bing-delivers-search-results-d18fc815-ac37-4723-bc67-9229ce3eb6a3'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
