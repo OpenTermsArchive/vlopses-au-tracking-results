@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-baaa0b80-b38c-4c74-af82-0faa4d32bfd8",
+  "runId": "ota-run-b8efbf1e-fb00-4ac7-ac42-e4436a96ec57",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-13T00:30:11.436Z",
-    "endDate": "2026-11-13T02:23:04.096Z",
+    "startDate": "2026-11-13T12:30:09.990Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,48 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 165,
-    "failed": 30
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "TikTok",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "AliExpress",
-        "termsType": "Marketplace Sellers Conditions"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Ranking Parameters Description"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
