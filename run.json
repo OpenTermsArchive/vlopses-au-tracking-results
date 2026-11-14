@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-14T00:30:10.707Z",
-    "endDate": null,
+    "endDate": "2026-11-14T02:19:57.430Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,17 +14,35 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 166,
+    "failed": 27
   },
   "coverage": {
-    "processed": 0,
+    "processed": 193,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Data Processor Agreement"
+      },
+      {
+        "serviceId": "AliExpress",
+        "termsType": "Marketplace Sellers Conditions"
+      }
+    ],
     "reasonChanges": []
   },
-  "transientErrors": 0
+  "transientErrors": 1
 }
