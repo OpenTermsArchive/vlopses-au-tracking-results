@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-f091b6a2-3512-4a1d-9ea3-fc6617210629",
+  "runId": "ota-run-2a8465ce-857d-451a-a685-be7fa922b633",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-14T00:30:10.707Z",
-    "endDate": "2026-11-14T02:19:57.430Z",
+    "startDate": "2026-11-14T12:30:10.395Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,35 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 166,
-    "failed": 27
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 193,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Data Processor Agreement"
-      },
-      {
-        "serviceId": "AliExpress",
-        "termsType": "Marketplace Sellers Conditions"
-      }
-    ],
+    "newFailures": [],
+    "recoveries": [],
     "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }
