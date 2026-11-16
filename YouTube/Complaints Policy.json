@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T02:17:54.707Z",
+    "date": "2026-11-16T14:07:37.841Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "8bfbbc63ac2b9b235382b04d58a0bc7ae653552c"
+        "snapshotId": "def5c47a3f4fab2f04d596c6b29db3e143c74c9c"
       },
       {
         "id": "youtube-answer-6156383",
@@ -34,8 +34,11 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "c771f5ea16d297d93bf4663fd74f34b85bfb9281"
+        "snapshotId": "50a1d31cbcf39a85789e53f258764daee8e3e996"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".article-container\"]\" has no match in the web page at 'https://support.google.com/youtube/answer/6156383'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
