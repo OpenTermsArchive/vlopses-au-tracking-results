@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-15T14:17:03.903Z",
+    "date": "2026-11-16T01:58:14.647Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "51c82c9bad1f8ba91bcd8f4eddda58df3f459c3e"
+        "snapshotId": "d45ff88c0d95abd6db196f587168987cbd406adc"
       },
       {
         "id": "i18n-official-policy-business-products-terms",
@@ -25,7 +25,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e1883882bc264bb91a17a3634fa96727c88f7fc8"
+        "snapshotId": "83a410223ec6118b9ba1da34fb36ae55f3a0746c"
       },
       {
         "id": "i18n-official-policy-commercial-terms-of-service",
@@ -45,13 +45,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "526937a9759ed6213225d14cabb335342af55484"
+        "snapshotId": "c55f9cc7b99393127f77a91f5a33f572291ba28f"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service'"
-      ]
-    }
+    ]
   }
 }
