@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-2b3b3bfe-5916-4b80-abf7-068f63310fcf",
+  "runId": "ota-run-4cb0c755-ae31-4590-af30-6d8e40c90d85",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-17T00:30:11.623Z",
-    "endDate": "2026-11-17T02:07:42.184Z",
+    "startDate": "2026-11-17T12:30:10.429Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "478393932760d0319802e433596d53038d85b6b9",
@@ -14,44 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 166,
-    "failed": 29
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "AliExpress",
-        "termsType": "Marketplace Sellers Conditions"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Complaints Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
