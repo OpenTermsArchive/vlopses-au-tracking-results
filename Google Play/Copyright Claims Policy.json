@@ -1,16 +1,19 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:22:30.304Z",
+    "date": "2026-11-19T01:18:52.621Z",
     "serviceName": "Google Play",
     "sourceDocuments": [
       {
         "id": "googleplay-android-developer-answer-9888072",
         "fetch": "https://support.google.com/googleplay/android-developer/answer/9888072",
         "select": ".article-container",
-        "mimeType": "text/html",
-        "snapshotId": "d339395b00b9dd1cb34d29c62ea3723c0a936164"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888072'"
     ]
   }
 }
