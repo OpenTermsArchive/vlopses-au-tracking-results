@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-6972318b-03a0-4fa9-b1e8-7ea6163e7dcd",
+  "runId": "ota-run-fd27bc20-5a63-408c-93c3-bb0c87b084bf",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-19T00:30:11.390Z",
-    "endDate": "2026-11-19T02:02:31.609Z",
+    "startDate": "2026-11-19T12:30:11.258Z",
+    "endDate": null,
     "engineVersion": "17.0.2",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "cc080553f356cb276cc79600dff02479c96f626f",
@@ -14,83 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 154,
-    "failed": 42
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 196,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Google Maps",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Google Maps",
-        "termsType": "Complaints Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Quality Guidelines"
-      },
-      {
-        "serviceId": "Google Shopping",
-        "termsType": "Marketplace Sellers Conditions"
-      },
-      {
-        "serviceId": "Google Shopping",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Complaints Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Google Play",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
