@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:22:25.084Z",
+    "date": "2026-11-19T01:18:49.702Z",
     "serviceName": "Google Play",
     "sourceDocuments": [
       {
@@ -9,32 +9,37 @@
         "fetch": "https://play.google.com/intl/en_US/about/play-terms/index.html",
         "select": "#content",
         "mimeType": "text/html",
-        "snapshotId": "fe35597148cdcfe734cd977f2f3d33fc1ded78da"
+        "snapshotId": "5d8e47b8d68a0658c9c90121f111dfea4742a721"
       },
       {
         "id": "googleplay-android-developer-answer-9858738",
         "fetch": "https://support.google.com/googleplay/android-developer/answer/9858738?hl=en-IE",
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
-        "mimeType": "text/html",
-        "snapshotId": "65f2d7d8425f5a1ac7807989744b662939e063de"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "googleplay-android-developer-answer-9900533",
         "fetch": "https://support.google.com/googleplay/android-developer/answer/9900533?hl=en-IE",
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
-        "mimeType": "text/html",
-        "snapshotId": "50cf14ad10a7a3f28ffae152ec7f7245429cc153"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "googleplay-android-developer-answer-9900633",
         "fetch": "https://support.google.com/googleplay/android-developer/answer/9900633?hl=en-IE",
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
-        "mimeType": "text/html",
-        "snapshotId": "53b8d379fd5f005d2c8089357db1543884fa056e"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9858738?hl=en-IE'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9900533?hl=en-IE'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9900633?hl=en-IE'"
     ]
   }
 }
