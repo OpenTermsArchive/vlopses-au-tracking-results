@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-19T12:30:11.258Z",
-    "endDate": null,
+    "endDate": "2026-11-19T14:06:11.594Z",
     "engineVersion": "17.0.2",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "cc080553f356cb276cc79600dff02479c96f626f",
@@ -14,17 +14,44 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 154,
+    "failed": 42
   },
   "coverage": {
-    "processed": 0,
+    "processed": 196,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Bing",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Ranking Parameters Description"
+      }
+    ]
   },
   "transientErrors": 0
 }
