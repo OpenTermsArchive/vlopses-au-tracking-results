@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-19T13:37:50.618Z",
+    "date": "2026-11-20T01:35:38.639Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -22,8 +22,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ff20813c33e9ee6311f1186e9452488e8efb8ac5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "126382350847838",
@@ -39,8 +39,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "977cc8200529e0274fa46531174897af986d5e77"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "222826637847963",
@@ -56,8 +56,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "220ba8b0e63dbcbd96f4dc81fdc4bb15b5fc66b5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "745146219025379",
@@ -77,8 +77,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "cd35a892e5a76b3e2597698f2c7d14aba7ddcc77"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "782489295246269",
@@ -98,8 +98,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d32e6e6bb105a2a1af0e64d7d872fa578005a40f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1992178671014348",
@@ -119,8 +119,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ca4d582c134a52ec5215533783d98c5f5f0aba5a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1896184403962569",
@@ -140,8 +140,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "eed3ecc8df24539ac803e557425bb0e83fb80556"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "490539584843747",
@@ -161,8 +161,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "fc0853d31568d7c20f11a799bc7631bba2feea8a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "739368099602634",
@@ -182,8 +182,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "48fc5624866ecccec20af9f90821d87356886915"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "354736791367645",
@@ -203,8 +203,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "a90b5771c909ebdcb6b3b0e19b92a75dfb3034b6"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "116455299019699",
@@ -224,8 +224,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "27baf916b264a33c1623179d024e3d7b40eafa56"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "113605816019642",
@@ -245,8 +245,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b39c055c1b10e62a930776f2859a0600ec1330e4"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1445818549016877",
@@ -266,8 +266,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b25f90d4888a4693b50d8ecbc8fa62b3b4ef1d6b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1586774981367195",
@@ -287,8 +287,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "dbbc20a75de30757b165e333c3d3ea2686024294"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "697328657009330",
@@ -308,8 +308,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "f60628bb8acaa68784197a3adae2f05de89f6c87"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "277982542336146",
@@ -329,8 +329,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "890276a55d5063a4bfc67d516bacdc326bbddd2c"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1624041234305603",
@@ -350,8 +350,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "7647ec3ad5c2c1b0ae0f5407bd9d8b0cf170b91b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "625821030869776",
@@ -371,8 +371,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "fe23e6293a771955a33164d055024fc9c3ce432a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "589322221078523",
@@ -392,8 +392,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2ee4da2e0a95cc886856c83f71d77e2c8a24645f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "454257084652404",
@@ -413,8 +413,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "51a855659c2b01933456d9c8bada64cde84b23a8"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "585021874940806",
@@ -434,8 +434,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "84801f344f397f541869de9e8cbd7247de2ca47a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "366993040573305",
@@ -455,8 +455,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "106f6925d00b98d703de6ea22bd839b4bc6f9d79"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "746718085394495",
@@ -476,8 +476,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "567d733e3d0e312aba19389b0fef797d2e6553f6"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "275268756304020",
@@ -497,8 +497,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "534e300db89b1399107451ebe1797f7e34febdd9"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "693466877515116",
@@ -518,8 +518,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "66290392305cf6a1fca12d2ff069dbf249d7fd4c"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1904208239817294",
@@ -539,8 +539,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "dcf34590d94866aeb4462ece4c59558f8b5bcd97"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "902013803270727",
@@ -560,8 +560,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "dad551994da0eb12b42dc22b8f151d24c18e96a3"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "346906112398235",
@@ -581,8 +581,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "02df27dae4b0f856b1bc91328511251bb6f0c23d"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "606967612731648",
@@ -602,8 +602,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "daefaadcdeaaacca7de4efb3c1164101ee93bf29"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "349865072108966",
@@ -623,8 +623,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "fcf24e100f0b0e10fd5270213ba111a7e322db4e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "499796697033328",
@@ -644,8 +644,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e0183cdf8c93ae36e044c8ae849cc0c7ecb6dbe7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "752100651636285",
@@ -665,8 +665,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ef75311adf433d3156d1b897a6193645a4265058"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "739368099602634",
@@ -686,8 +686,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "48fc5624866ecccec20af9f90821d87356886915"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1500571290191298",
@@ -707,8 +707,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "79d8268b9ff9f7242f893e8c870aaf77f25735ab"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "244286600038698",
@@ -728,8 +728,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e6fa2cec7255e1670a90ce2f82ae108022596eeb"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1586774981367195",
@@ -749,8 +749,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "dbbc20a75de30757b165e333c3d3ea2686024294"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1921828231475726",
@@ -770,8 +770,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "056e3d32827561998d0ea9b0c46d899656ed3cbd"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "625821030869776",
@@ -791,8 +791,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "fe23e6293a771955a33164d055024fc9c3ce432a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "2039132876317734",
@@ -812,8 +812,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "59e752d1e1599241252259ba8cc35caf6bb9cb6f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "454257084652404",
@@ -833,8 +833,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "51a855659c2b01933456d9c8bada64cde84b23a8"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "1624041234305603",
@@ -854,8 +854,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "7647ec3ad5c2c1b0ae0f5407bd9d8b0cf170b91b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "752100651636285",
@@ -875,8 +875,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ef75311adf433d3156d1b897a6193645a4265058"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "116455299019699",
@@ -896,8 +896,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "27baf916b264a33c1623179d024e3d7b40eafa56"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "364771763628260",
@@ -917,8 +917,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d196c4eb0336bdc26d64c9d350f00f5dd7c337a1"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "843303212369793",
@@ -938,8 +938,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0c162274a933cab844a097eba7a89ff55e767c9f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "275268756304020",
@@ -959,8 +959,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "534e300db89b1399107451ebe1797f7e34febdd9"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "576171622509150",
@@ -981,7 +981,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7bd2d35a66bb3b68236dcee2937b6634bea89980"
+        "snapshotId": "98bb98969f2cc6388384ecda22b305fec120da75"
       },
       {
         "id": "help-instagram-1417735471763678",
@@ -1006,11 +1006,56 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0e24184ac2480e0e2fc4484da674b8e25ca15e32"
+        "snapshotId": "257f2f2cdb699661102e51378cb2c60a052699ea"
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#help-center-faq-page-container\"]\" has no match in the web page at 'https://help.instagram.com/535503073130320/'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/535503073130320/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/126382350847838?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/222826637847963?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/745146219025379/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/782489295246269/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1992178671014348/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1896184403962569/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/490539584843747/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/354736791367645/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/116455299019699/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/113605816019642/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1445818549016877/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/697328657009330/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/277982542336146/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/589322221078523/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/585021874940806/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/366993040573305/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/746718085394495/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=126382350847838'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/693466877515116/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1904208239817294/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/902013803270727/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/346906112398235/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/606967612731648/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/349865072108966/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/499796697033328/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/752100651636285/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/739368099602634/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1500571290191298/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/244286600038698/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1586774981367195/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1921828231475726/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/625821030869776/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/2039132876317734/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/454257084652404/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/1624041234305603/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/752100651636285?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/116455299019699?helpref=faq_content'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/364771763628260/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/843303212369793/?helpref=uf_permalink&parent_cms_id=222826637847963'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://help.instagram.com/275268756304020/?helpref=uf_permalink&parent_cms_id=222826637847963'"
     ]
   }
 }
