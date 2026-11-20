@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-fd27bc20-5a63-408c-93c3-bb0c87b084bf",
+  "runId": "ota-run-c65dc899-42a1-4d37-bdbd-b664c4ba5985",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-19T12:30:11.258Z",
-    "endDate": "2026-11-19T14:06:11.594Z",
+    "startDate": "2026-11-20T00:30:10.943Z",
+    "endDate": null,
     "engineVersion": "17.0.2",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "cc080553f356cb276cc79600dff02479c96f626f",
@@ -14,44 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 154,
-    "failed": 42
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 196,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Ranking Parameters Description"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
