@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-13T13:55:40.146Z",
+    "date": "2026-11-20T02:19:10.565Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "87cf634a8ac2ab50f43895875474054b517a61cd"
+        "snapshotId": "c1902c7d8e4849d01efc22e310ae04c4a7776b5a"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6833fa3e08189869e379a71fd7a777821bcb3f45"
+        "snapshotId": "cc11861200716abf39d77889bafec845e34e49e2"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1fc226056ca78c4ef8fb01c7a7fd72cdfb58aaa1"
+        "snapshotId": "33915ec37dc6c1591d5d23d89e11aeb4df71d352"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -100,7 +100,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cb8cca48e9cd4c86df0ba612771d8320eab7cff6"
+        "snapshotId": "3795ec04f40caa5d4504e63b858997755bb75ee2"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -114,7 +114,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "13846c470c0d90fda24c54abca3bad8bb24ad0d4"
+        "snapshotId": "8ad90832203ad642354d5c7fcf2205fb2afb420b"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f9b102556f8f6b64a2c388392a527f6dffd8375a"
+        "snapshotId": "a2fad2ee30ae62bff37e21ece1d0f344ba06bfbc"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -170,8 +170,14 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0a847d9b4c167d15e7e7b851ff07c8525b2edb17"
+        "snapshotId": "4ed503a82f899f65ea14ed6a885a4db77a0758ad"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/?cgversion=2025H2update'",
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/?cgversion=2025H2update'"
+      ]
+    }
   }
 }
