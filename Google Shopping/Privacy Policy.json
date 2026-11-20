@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-19T01:21:03.901Z",
+    "date": "2026-11-20T01:27:37.526Z",
     "serviceName": "Google Shopping",
     "sourceDocuments": [
       {
@@ -14,7 +14,7 @@
           "script"
         ],
         "mimeType": "text/html",
-        "snapshotId": "b80a0771a1b4b311cdaaf106e3e4e5f332999af9"
+        "snapshotId": "9f07ea0f8d32d699e1b983e3b1f2cd88110e8e04"
       },
       {
         "id": "merchants-answer-7125797",
@@ -26,8 +26,8 @@
           ".scClientFeedbackInlineFeedbacklinkroot",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ac380bf260da79115e507e32f7afd74ade879aba"
       },
       {
         "id": "technologies-ads",
@@ -36,7 +36,7 @@
           "#main-content"
         ],
         "mimeType": "text/html",
-        "snapshotId": "6fb0a636c1d6bc0f6d35bfe9ca135f262f64f073"
+        "snapshotId": "fd0a5f0b475e9f1ae8d11374b6466a5c71872fba"
       },
       {
         "id": "pipa",
@@ -45,11 +45,8 @@
           "main"
         ],
         "mimeType": "text/html",
-        "snapshotId": "d023c983db4888855bb02131307f6b5eb808be40"
+        "snapshotId": "c80568fe50c288124d25511a9a2cd8e9fc9ed21c"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/7125797'"
     ]
   }
 }
