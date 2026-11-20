@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-20T02:19:10.565Z",
+    "date": "2026-11-20T13:58:25.451Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -172,12 +172,6 @@
         "mimeType": "text/html",
         "snapshotId": "4ed503a82f899f65ea14ed6a885a4db77a0758ad"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/?cgversion=2025H2update'"
-      ]
-    }
+    ]
   }
 }
