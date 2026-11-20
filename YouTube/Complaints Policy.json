@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-19T01:58:12.438Z",
+    "date": "2026-11-20T02:00:45.816Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2fa8a1cd08e86609f19f697f80983081a3f43f08"
       },
       {
         "id": "youtube-answer-6156383",
@@ -33,13 +33,9 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "23458b4030e5b1f2e373c89452bab036042b0ae2"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9996224'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/6156383'"
     ]
   }
 }
