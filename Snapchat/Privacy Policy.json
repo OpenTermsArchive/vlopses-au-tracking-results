@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-21T01:47:58.481Z",
+    "date": "2026-11-21T13:53:13.088Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -26,7 +26,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "883d5b5bb4d2c7ceb46561b5abfe8d4f3ebda072"
+        "snapshotId": "3e2bb1d7554824a1dd582828f3612111d726d6f6"
       },
       {
         "id": "privacy-privacy-policy-chd-privacy-policy",
@@ -38,7 +38,7 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "47827f6ac1321668bcc7550f349546f02463a473"
+        "snapshotId": "3f04dcfdb1b53a0418ebb4b352b19a273335c8fd"
       },
       {
         "id": "privacy-ads-privacy",
@@ -51,7 +51,7 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "1abd103a846b330fc5101ec0cc82fde4154ccc2e"
+        "snapshotId": "f501ef69a9c510ecbf9920388e9158621a39a932"
       },
       {
         "id": "privacy-privacy-by-product",
@@ -91,11 +91,8 @@
         "fetch": "https://www.snap.com/terms/standard-contractual-clauses",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "8dcefcdcb48e73d4303492d46a43ddf73ee8da9e"
+        "snapshotId": "3cc25450d881e3a8fe5652058ba4be4879484dc1"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"main\" matches an empty content in the web page at 'https://values.snap.com/privacy/ads-privacy'"
     ]
   }
 }
