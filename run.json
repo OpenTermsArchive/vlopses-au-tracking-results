@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-23T00:30:11.076Z",
-    "endDate": null,
+    "endDate": "2026-11-23T02:09:14.566Z",
     "engineVersion": "17.0.2",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "cc080553f356cb276cc79600dff02479c96f626f",
@@ -14,17 +14,35 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 167,
+    "failed": 27
   },
   "coverage": {
-    "processed": 0,
+    "processed": 194,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Community Guidelines"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Privacy Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }
