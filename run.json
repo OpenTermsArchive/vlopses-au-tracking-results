@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-c089873a-af9b-4afb-9018-baad8fc68bd7",
+  "runId": "ota-run-b85cca9b-f5ea-4e1a-b589-9c9f09eeefca",
   "collectionId": "vlopses-au",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-25T00:30:10.579Z",
-    "endDate": "2026-11-25T02:14:49.655Z",
+    "startDate": "2026-11-25T12:30:10.902Z",
+    "endDate": null,
     "engineVersion": "17.0.2",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "cc080553f356cb276cc79600dff02479c96f626f",
@@ -14,27 +14,17 @@
     "terms": 199
   },
   "tracked": {
-    "ok": 167,
-    "failed": 28
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 195,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      }
-    ]
+    "recoveries": [],
+    "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }
