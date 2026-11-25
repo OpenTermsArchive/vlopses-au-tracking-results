@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-20T13:58:25.451Z",
+    "date": "2026-11-25T02:12:48.161Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c1902c7d8e4849d01efc22e310ae04c4a7776b5a"
+        "snapshotId": "9f852054439a080f8e6bd5bc3ba48c6040743ab4"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cc11861200716abf39d77889bafec845e34e49e2"
+        "snapshotId": "e70c8b6a5c0d5e55cf6c0ed329902eee62165b07"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9e8d136caa16093b1f0861aa3d9c6311425653c8"
+        "snapshotId": "7d9cb5b0fe1792c05db1b84134f56cafc914037d"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -58,7 +58,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "923e911eeb39a209b1e1700e7d7a35653f11b5e6"
+        "snapshotId": "9bbe20e2f68e3d3a12948502a116e518d4f38350"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "33915ec37dc6c1591d5d23d89e11aeb4df71d352"
+        "snapshotId": "e49db7efe770b2f1f4ae4f3c3e3b852146e161c0"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -86,7 +86,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "907a2d11a513beeb6b2adbcaf6873e9309da505c"
+        "snapshotId": "7d4967bcb9043dcb12314090be3fb2cded8322f7"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -100,7 +100,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3795ec04f40caa5d4504e63b858997755bb75ee2"
+        "snapshotId": "d00b63435b55cc497e123cf2775e9be520cc26dd"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -114,7 +114,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ad90832203ad642354d5c7fcf2205fb2afb420b"
+        "snapshotId": "6a454559bb7bcd49c67cacfa5df5697a0b155734"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -128,7 +128,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a2fad2ee30ae62bff37e21ece1d0f344ba06bfbc"
+        "snapshotId": "f5e8cb3799b0087cec59a0a8083cbd8c412cb00d"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -142,7 +142,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "90f653efb16ded3eb9374ea783c98e1a3d7dc197"
+        "snapshotId": "a3e850a97083a75ba513ed40e0737e86174a2afb"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -156,7 +156,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7e708380ef8424f36808650a17d7fb98960f81ca"
+        "snapshotId": "f82c05132d1ef2cb4a91501e1862da7c16d39610"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -170,8 +170,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4ed503a82f899f65ea14ed6a885a4db77a0758ad"
+        "snapshotId": "4156234d4d221f5ff891e89f3e1c7fd25d9866ae"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/safety-civility/?cgversion=2025H2update'"
+      ]
+    }
   }
 }
